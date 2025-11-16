@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=C105 NewDesignator=C113
+Change Component Designator: OldDesignator=C106 NewDesignator=C114
+Change Component Designator: OldDesignator=R78 NewDesignator=R84
+Change Component Designator: OldDesignator=R79 NewDesignator=R86
+Change Component Designator: OldDesignator=R82 NewDesignator=R88
+Change Net Name : Old Net Name=NetC105_1 New Net Name=NetC113_1
+Change Net Name : Old Net Name=NetR78_2 New Net Name=NetR84_2
+Added Pin To Net: NetName=NetC105_1 Pin=C105-1
+Added Pin To Net: NetName=NetC105_1 Pin=R79-1
+Added Pin To Net: NetName=NetC105_1 Pin=U15-5
+Added Net: Name=NetC105_1
+Added Member To Class: ClassName=NTC Member=Component C113 0.22uF/10V
+Added Member To Class: ClassName=NTC Member=Component C114 0.22uF/10V
+Added Member To Class: ClassName=NTC Member=Component R84 22R
+Added Member To Class: ClassName=NTC Member=Component R86 22R
+Added Member To Class: ClassName=NTC Member=Component R88 10K

@@ -1,0 +1,431 @@
+Added Component: Designator=BT1(SW-SMD)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C126(CAP-CER-0603)
+Added Component: Designator=C127(CAP-CER-0603)
+Added Component: Designator=C128(CAP-CER-0603)
+Added Component: Designator=C129(CAP-CER-0603)
+Added Component: Designator=C130(CAP-CER-0603)
+Added Component: Designator=C131(CAP-CER-0603)
+Added Component: Designator=C132(CAP-CER-0603)
+Added Component: Designator=C133(CAP-CER-0603)
+Added Component: Designator=C134(CAP-CER-0603)
+Added Component: Designator=C135(CAP-CER-0603)
+Added Component: Designator=C136(CAP-CER-0603)
+Added Component: Designator=C137(CAP-CER-0603)
+Added Component: Designator=C138(CAP-CER-0603)
+Added Component: Designator=C140(CAP-CER-0603)
+Added Component: Designator=C141(CAP-CER-0603)
+Added Component: Designator=C142(CAP-CER-0603)
+Added Component: Designator=C143(CAP-CER-0603)
+Added Component: Designator=C144(CAP-CER-0603)
+Added Component: Designator=C145(CAP-CER-0603)
+Added Component: Designator=C146(CAP-CER-0603)
+Added Component: Designator=C148(CAP-CER-0603)
+Added Component: Designator=C149(CAP-CER-0603)
+Added Component: Designator=C150(CAP-CER-0603)
+Added Component: Designator=C151(CAP-CER-0603)
+Added Component: Designator=DS5(LED-SMD-0603)
+Added Component: Designator=DS6(LED-SMD-0603)
+Added Component: Designator=J6(JP 1x5 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=J11(JP 1x3 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=R105(RES-SMD-0603)
+Added Component: Designator=R106(RES-SMD-0603)
+Added Component: Designator=R107(RES-SMD-0603)
+Added Component: Designator=R108(RES-SMD-0603)
+Added Component: Designator=R109(RES-SMD-0603)
+Added Component: Designator=R110(RES-SMD-0603)
+Added Component: Designator=R111(RES-SMD-0603)
+Added Component: Designator=R112(RES-SMD-0603)
+Added Component: Designator=R113(RES-SMD-0603)
+Added Component: Designator=R114(RES-SMD-0603)
+Added Component: Designator=R115(RES-SMD-0603)
+Added Component: Designator=R116(RES-SMD-0603)
+Added Component: Designator=R117(RES-SMD-0603)
+Added Component: Designator=R118(RES-SMD-0603)
+Added Component: Designator=R119(RES-SMD-0603)
+Added Component: Designator=R137(RES-SMD-0603)
+Added Component: Designator=R138(RES-SMD-0603)
+Added Component: Designator=U20B(STM-LQFP100_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "1024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Pin Low Profile Quad Flat Package, 14 x 14 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F407VGT7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "STM32F407VGT7-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2333298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "99W9914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "48W6905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "511-STM32F407VGT7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Component: Designator=U20(STM-LQFP100_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "1024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Pin Low Profile Quad Flat Package, 14 x 14 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F407VGT7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "STM32F407VGT7-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2333298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "99W9914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "48W6905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "511-STM32F407VGT7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Component: Designator=U21(TPL5010DDCR)
+Added Component: Designator=X1(CRYSTAL-4POS-3.2x2.5)
+Added Pin To Net: NetName=+3.3V Pin=C126-1
+Added Pin To Net: NetName=+3.3V Pin=C127-1
+Added Pin To Net: NetName=+3.3V Pin=C128-1
+Added Pin To Net: NetName=+3.3V Pin=C132-1
+Added Pin To Net: NetName=+3.3V Pin=C136-1
+Added Pin To Net: NetName=+3.3V Pin=C137-1
+Added Pin To Net: NetName=+3.3V Pin=C138-1
+Added Pin To Net: NetName=+3.3V Pin=C143-1
+Added Pin To Net: NetName=+3.3V Pin=J6-1
+Added Pin To Net: NetName=+3.3V Pin=R110-1
+Added Pin To Net: NetName=+3.3V Pin=R118-2
+Added Pin To Net: NetName=+3.3V Pin=R137-2
+Added Pin To Net: NetName=+3.3V Pin=U20B-6
+Added Pin To Net: NetName=+3.3V Pin=U20B-11
+Added Pin To Net: NetName=+3.3V Pin=U20B-19
+Added Pin To Net: NetName=+3.3V Pin=U20B-28
+Added Pin To Net: NetName=+3.3V Pin=U20B-50
+Added Pin To Net: NetName=+3.3V Pin=U20B-75
+Added Pin To Net: NetName=+3.3V Pin=U20B-100
+Added Pin To Net: NetName=+3.3V Pin=U21-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=EXP UART RX Pin=R113-2
+Added Pin To Net: NetName=EXP UART RX Pin=U20-64
+Added Net: Name=EXP UART RX
+Added Pin To Net: NetName=EXP UART TX Pin=R114-2
+Added Pin To Net: NetName=EXP UART TX Pin=U20-63
+Added Net: Name=EXP UART TX
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=C128-2
+Added Pin To Net: NetName=GND Pin=C129-2
+Added Pin To Net: NetName=GND Pin=C130-2
+Added Pin To Net: NetName=GND Pin=C134-2
+Added Pin To Net: NetName=GND Pin=C135-2
+Added Pin To Net: NetName=GND Pin=C140-2
+Added Pin To Net: NetName=GND Pin=C141-2
+Added Pin To Net: NetName=GND Pin=C142-2
+Added Pin To Net: NetName=GND Pin=C144-2
+Added Pin To Net: NetName=GND Pin=C145-2
+Added Pin To Net: NetName=GND Pin=C146-2
+Added Pin To Net: NetName=GND Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C150-2
+Added Pin To Net: NetName=GND Pin=C151-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J11-3
+Added Pin To Net: NetName=GND Pin=R108-1
+Added Pin To Net: NetName=GND Pin=R109-1
+Added Pin To Net: NetName=GND Pin=R111-1
+Added Pin To Net: NetName=GND Pin=R112-2
+Added Pin To Net: NetName=GND Pin=R119-1
+Added Pin To Net: NetName=GND Pin=R138-2
+Added Pin To Net: NetName=GND Pin=U20B-10
+Added Pin To Net: NetName=GND Pin=U20B-20
+Added Pin To Net: NetName=GND Pin=U20B-27
+Added Pin To Net: NetName=GND Pin=U20B-74
+Added Pin To Net: NetName=GND Pin=U20B-99
+Added Pin To Net: NetName=GND Pin=U21-2
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=LED B Pin=DS6-A
+Added Pin To Net: NetName=LED B Pin=U20-42
+Added Net: Name=LED B
+Added Pin To Net: NetName=LED G Pin=DS5-A
+Added Pin To Net: NetName=LED G Pin=U20-41
+Added Net: Name=LED G
+Added Pin To Net: NetName=MCU_ADC_TEMP1 Pin=U20-15
+Added Net: Name=MCU_ADC_TEMP1
+Added Pin To Net: NetName=MCU_ADC_TEMP2 Pin=U20-16
+Added Net: Name=MCU_ADC_TEMP2
+Added Pin To Net: NetName=MCU_ADC_TEMP3 Pin=U20-17
+Added Net: Name=MCU_ADC_TEMP3
+Added Pin To Net: NetName=MCU_ADC_TEMP4 Pin=U20-18
+Added Net: Name=MCU_ADC_TEMP4
+Added Pin To Net: NetName=MCU_ADC_TEMP5 Pin=U20-33
+Added Net: Name=MCU_ADC_TEMP5
+Added Pin To Net: NetName=MCU_ADC_TEMP6 Pin=U20-34
+Added Net: Name=MCU_ADC_TEMP6
+Added Pin To Net: NetName=MCU_ADC_TEMP7 Pin=U20-35
+Added Net: Name=MCU_ADC_TEMP7
+Added Pin To Net: NetName=MCU_ADC_TEMP8 Pin=U20-36
+Added Net: Name=MCU_ADC_TEMP8
+Added Pin To Net: NetName=MCU_EF_5_AUX Pin=U20-84
+Added Net: Name=MCU_EF_5_AUX
+Added Pin To Net: NetName=MCU_EF_5_EN Pin=U20-85
+Added Net: Name=MCU_EF_5_EN
+Added Pin To Net: NetName=MCU_EF_12_AUX Pin=U20-38
+Added Net: Name=MCU_EF_12_AUX
+Added Pin To Net: NetName=MCU_EXP_CAN_RX Pin=U20-70
+Added Net: Name=MCU_EXP_CAN_RX
+Added Pin To Net: NetName=MCU_EXP_CAN_TX Pin=U20-71
+Added Net: Name=MCU_EXP_CAN_TX
+Added Pin To Net: NetName=MCU_EXP_RS485_DE Pin=U20-51
+Added Net: Name=MCU_EXP_RS485_DE
+Added Pin To Net: NetName=MCU_EXP_RS485_R\E\ Pin=U20-55
+Added Net: Name=MCU_EXP_RS485_R\E\
+Added Pin To Net: NetName=MCU_EXP_SCL Pin=U20-47
+Added Net: Name=MCU_EXP_SCL
+Added Pin To Net: NetName=MCU_EXP_SDA Pin=U20-48
+Added Net: Name=MCU_EXP_SDA
+Added Pin To Net: NetName=MCU_FRAM_C\S\ Pin=U20-83
+Added Net: Name=MCU_FRAM_C\S\
+Added Pin To Net: NetName=MCU_HEATER_PWM1 Pin=U20-59
+Added Net: Name=MCU_HEATER_PWM1
+Added Pin To Net: NetName=MCU_HEATER_PWM2 Pin=U20-60
+Added Net: Name=MCU_HEATER_PWM2
+Added Pin To Net: NetName=MCU_HEATER_PWM3 Pin=U20-61
+Added Net: Name=MCU_HEATER_PWM3
+Added Pin To Net: NetName=MCU_HEATER_PWM4 Pin=U20-62
+Added Net: Name=MCU_HEATER_PWM4
+Added Pin To Net: NetName=MCU_IR_LED_PWM Pin=U20-40
+Added Net: Name=MCU_IR_LED_PWM
+Added Pin To Net: NetName=MCU_IRQ_0 Pin=U20-67
+Added Net: Name=MCU_IRQ_0
+Added Pin To Net: NetName=MCU_IRQ_1 Pin=U20-66
+Added Net: Name=MCU_IRQ_1
+Added Pin To Net: NetName=MCU_LASER_ADC1 Pin=U20-25
+Added Net: Name=MCU_LASER_ADC1
+Added Pin To Net: NetName=MCU_LASER_ADC2 Pin=U20-26
+Added Net: Name=MCU_LASER_ADC2
+Added Pin To Net: NetName=MCU_LASER_DAC_CS Pin=U20-43
+Added Net: Name=MCU_LASER_DAC_CS
+Added Pin To Net: NetName=MCU_LASER_DAC_LATCH Pin=U20-46
+Added Net: Name=MCU_LASER_DAC_LATCH
+Added Pin To Net: NetName=MCU_LASER_MISO Pin=U20-31
+Added Net: Name=MCU_LASER_MISO
+Added Pin To Net: NetName=MCU_LASER_MOSI Pin=U20-32
+Added Net: Name=MCU_LASER_MOSI
+Added Pin To Net: NetName=MCU_LASER_SCK Pin=U20-30
+Added Net: Name=MCU_LASER_SCK
+Added Pin To Net: NetName=MCU_LASER_SW_EXT_CS Pin=U20-44
+Added Net: Name=MCU_LASER_SW_EXT_CS
+Added Pin To Net: NetName=MCU_LASER_SW_INT_CS Pin=U20-45
+Added Net: Name=MCU_LASER_SW_INT_CS
+Added Pin To Net: NetName=MCU_PHOTO_ADC_CONV Pin=U20-58
+Added Net: Name=MCU_PHOTO_ADC_CONV
+Added Pin To Net: NetName=MCU_PHOTO_ADC_CS Pin=U20-57
+Added Net: Name=MCU_PHOTO_ADC_CS
+Added Pin To Net: NetName=MCU_PHOTO_ADC_EOC Pin=U20-65
+Added Net: Name=MCU_PHOTO_ADC_EOC
+Added Pin To Net: NetName=MCU_PHOTO_MISO Pin=U20-53
+Added Net: Name=MCU_PHOTO_MISO
+Added Pin To Net: NetName=MCU_PHOTO_MOSI Pin=U20-54
+Added Net: Name=MCU_PHOTO_MOSI
+Added Pin To Net: NetName=MCU_PHOTO_PD_CS Pin=U20-56
+Added Net: Name=MCU_PHOTO_PD_CS
+Added Pin To Net: NetName=MCU_PHOTO_SCK Pin=U20-52
+Added Net: Name=MCU_PHOTO_SCK
+Added Pin To Net: NetName=MCU_RS485_RX Pin=U20-69
+Added Net: Name=MCU_RS485_RX
+Added Pin To Net: NetName=MCU_RS485_TX Pin=U20-68
+Added Net: Name=MCU_RS485_TX
+Added Pin To Net: NetName=MCU_SENSOR1_EN Pin=U20-91
+Added Net: Name=MCU_SENSOR1_EN
+Added Pin To Net: NetName=MCU_SENSOR2_EN Pin=U20-90
+Added Net: Name=MCU_SENSOR2_EN
+Added Pin To Net: NetName=MCU_SENSOR_SCL Pin=U20-92
+Added Net: Name=MCU_SENSOR_SCL
+Added Pin To Net: NetName=MCU_SENSOR_SDA Pin=U20-93
+Added Net: Name=MCU_SENSOR_SDA
+Added Pin To Net: NetName=MCU_TEC_1_CS Pin=U20-98
+Added Net: Name=MCU_TEC_1_CS
+Added Pin To Net: NetName=MCU_TEC_1_EN Pin=U20-5
+Added Net: Name=MCU_TEC_1_EN
+Added Pin To Net: NetName=MCU_TEC_1_SWEN Pin=U20-4
+Added Net: Name=MCU_TEC_1_SWEN
+Added Pin To Net: NetName=MCU_TEC_2_C\S\ Pin=U20-97
+Added Net: Name=MCU_TEC_2_C\S\
+Added Pin To Net: NetName=MCU_TEC_2_EN Pin=U20-7
+Added Net: Name=MCU_TEC_2_EN
+Added Pin To Net: NetName=MCU_TEC_2_SWEN Pin=U20-3
+Added Net: Name=MCU_TEC_2_SWEN
+Added Pin To Net: NetName=MCU_TEC_3_CS Pin=U20-96
+Added Net: Name=MCU_TEC_3_CS
+Added Pin To Net: NetName=MCU_TEC_3_EN Pin=U20-8
+Added Net: Name=MCU_TEC_3_EN
+Added Pin To Net: NetName=MCU_TEC_3_SWEN Pin=U20-1
+Added Net: Name=MCU_TEC_3_SWEN
+Added Pin To Net: NetName=MCU_TEC_4_CS Pin=U20-95
+Added Net: Name=MCU_TEC_4_CS
+Added Pin To Net: NetName=MCU_TEC_4_EN Pin=U20-9
+Added Net: Name=MCU_TEC_4_EN
+Added Pin To Net: NetName=MCU_TEC_4_SWEN Pin=U20-2
+Added Net: Name=MCU_TEC_4_SWEN
+Added Pin To Net: NetName=MCU_TEC_ADC_CS Pin=U20-86
+Added Net: Name=MCU_TEC_ADC_CS
+Added Pin To Net: NetName=MCU_TEC_ADC Pin=U20-29
+Added Net: Name=MCU_TEC_ADC
+Added Pin To Net: NetName=MCU_TEC_MISO Pin=U20-79
+Added Net: Name=MCU_TEC_MISO
+Added Pin To Net: NetName=MCU_TEC_MOSI Pin=U20-80
+Added Net: Name=MCU_TEC_MOSI
+Added Pin To Net: NetName=MCU_TEC_SCK Pin=U20-78
+Added Net: Name=MCU_TEC_SCK
+Added Pin To Net: NetName=MCU NRST Pin=BT1-1
+Added Pin To Net: NetName=MCU NRST Pin=C149-1
+Added Pin To Net: NetName=MCU NRST Pin=R105-1
+Added Pin To Net: NetName=MCU NRST Pin=R110-2
+Added Pin To Net: NetName=MCU NRST Pin=R117-2
+Added Pin To Net: NetName=MCU NRST Pin=R118-1
+Added Pin To Net: NetName=MCU NRST Pin=R119-2
+Added Pin To Net: NetName=MCU NRST Pin=U20-14
+Added Net: Name=MCU NRST
+Added Pin To Net: NetName=MCU SWCLK Pin=R116-2
+Added Pin To Net: NetName=MCU SWCLK Pin=U20-76
+Added Net: Name=MCU SWCLK
+Added Pin To Net: NetName=MCU SWDIO Pin=R115-2
+Added Pin To Net: NetName=MCU SWDIO Pin=U20-72
+Added Net: Name=MCU SWDIO
+Added Pin To Net: NetName=MCU VDDA Pin=C131-1
+Added Pin To Net: NetName=MCU VDDA Pin=C133-1
+Added Pin To Net: NetName=MCU VDDA Pin=U20B-21
+Added Pin To Net: NetName=MCU VDDA Pin=U20B-22
+Added Net: Name=MCU VDDA
+Added Pin To Net: NetName=NetC126_2 Pin=C126-2
+Added Pin To Net: NetName=NetC126_2 Pin=C129-1
+Added Net: Name=NetC126_2
+Added Pin To Net: NetName=NetC127_2 Pin=C127-2
+Added Pin To Net: NetName=NetC127_2 Pin=C130-1
+Added Net: Name=NetC127_2
+Added Pin To Net: NetName=NetC131_2 Pin=C131-2
+Added Pin To Net: NetName=NetC131_2 Pin=C141-1
+Added Net: Name=NetC131_2
+Added Pin To Net: NetName=NetC132_2 Pin=C132-2
+Added Pin To Net: NetName=NetC132_2 Pin=C140-1
+Added Net: Name=NetC132_2
+Added Pin To Net: NetName=NetC133_2 Pin=C133-2
+Added Pin To Net: NetName=NetC133_2 Pin=C142-1
+Added Net: Name=NetC133_2
+Added Pin To Net: NetName=NetC134_1 Pin=C134-1
+Added Pin To Net: NetName=NetC134_1 Pin=U20-73
+Added Net: Name=NetC134_1
+Added Pin To Net: NetName=NetC135_1 Pin=C135-1
+Added Pin To Net: NetName=NetC135_1 Pin=U20-49
+Added Net: Name=NetC135_1
+Added Pin To Net: NetName=NetC136_2 Pin=C136-2
+Added Pin To Net: NetName=NetC136_2 Pin=C144-1
+Added Net: Name=NetC136_2
+Added Pin To Net: NetName=NetC137_2 Pin=C137-2
+Added Pin To Net: NetName=NetC137_2 Pin=C145-1
+Added Net: Name=NetC137_2
+Added Pin To Net: NetName=NetC138_2 Pin=C138-2
+Added Pin To Net: NetName=NetC138_2 Pin=C146-1
+Added Net: Name=NetC138_2
+Added Pin To Net: NetName=NetC143_2 Pin=C143-2
+Added Pin To Net: NetName=NetC143_2 Pin=C148-1
+Added Net: Name=NetC143_2
+Added Pin To Net: NetName=NetC150_1 Pin=C150-1
+Added Pin To Net: NetName=NetC150_1 Pin=U20-13
+Added Pin To Net: NetName=NetC150_1 Pin=X1-1
+Added Net: Name=NetC150_1
+Added Pin To Net: NetName=NetC151_1 Pin=C151-1
+Added Pin To Net: NetName=NetC151_1 Pin=U20-12
+Added Pin To Net: NetName=NetC151_1 Pin=X1-3
+Added Net: Name=NetC151_1
+Added Pin To Net: NetName=NetDS5_K Pin=DS5-K
+Added Pin To Net: NetName=NetDS5_K Pin=R111-2
+Added Net: Name=NetDS5_K
+Added Pin To Net: NetName=NetDS6_K Pin=DS6-K
+Added Pin To Net: NetName=NetDS6_K Pin=R112-1
+Added Net: Name=NetDS6_K
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=R115-1
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=R116-1
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=NetJ6_5 Pin=R117-1
+Added Net: Name=NetJ6_5
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=R113-1
+Added Net: Name=NetJ11_1
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ11_2 Pin=R114-1
+Added Net: Name=NetJ11_2
+Added Pin To Net: NetName=NetR105_2 Pin=R105-2
+Added Pin To Net: NetName=NetR105_2 Pin=U21-6
+Added Net: Name=NetR105_2
+Added Pin To Net: NetName=NetR106_2 Pin=R106-2
+Added Pin To Net: NetName=NetR106_2 Pin=U21-5
+Added Net: Name=NetR106_2
+Added Pin To Net: NetName=NetR107_2 Pin=R107-2
+Added Pin To Net: NetName=NetR107_2 Pin=U21-4
+Added Net: Name=NetR107_2
+Added Pin To Net: NetName=NetR108_2 Pin=R108-2
+Added Pin To Net: NetName=NetR108_2 Pin=R109-2
+Added Pin To Net: NetName=NetR108_2 Pin=U21-3
+Added Net: Name=NetR108_2
+Added Pin To Net: NetName=NetR137_1 Pin=R137-1
+Added Pin To Net: NetName=NetR137_1 Pin=R138-1
+Added Pin To Net: NetName=NetR137_1 Pin=U20-37
+Added Net: Name=NetR137_1
+Added Pin To Net: NetName=WD DONE Pin=R107-1
+Added Pin To Net: NetName=WD DONE Pin=U20-24
+Added Net: Name=WD DONE
+Added Pin To Net: NetName=WD WAKE Pin=R106-1
+Added Pin To Net: NetName=WD WAKE Pin=U20-23
+Added Net: Name=WD WAKE
+Added Class: Name=MCU

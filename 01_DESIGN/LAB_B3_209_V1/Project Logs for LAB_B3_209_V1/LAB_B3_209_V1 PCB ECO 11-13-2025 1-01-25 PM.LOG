@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=I2C_SENSOR Member=J8
+Removed Member From Class: ClassName=I2C_SENSOR Member=J9
+Change Net Name : Old Net Name=NetJ8_3 New Net Name=NetR92_1
+Change Net Name : Old Net Name=NetJ8_4 New Net Name=NetR93_1
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=NetR99_1
+Change Net Name : Old Net Name=NetJ9_4 New Net Name=NetR100_1

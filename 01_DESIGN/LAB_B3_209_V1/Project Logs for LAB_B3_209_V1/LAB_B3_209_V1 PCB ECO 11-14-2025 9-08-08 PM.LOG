@@ -1,0 +1,296 @@
+Added Component: Designator=C152(CAP-CER-0603)
+Added Component: Designator=C153(CAP-CER-0603)
+Added Component: Designator=J1(HARWIN_M80-5114242)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M80-5114242"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(CON4_653104131822_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crimp Part Number"; Value = "65300113722DEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part Number"; Value = "653004113322"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "WURTH"; VariantName = "[No Variations]"
+Added Component: Designator=J3(MOLEX_532611571)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/532611571/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "532611571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/532611571/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(MOLEX_532610971)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "532610971"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(HARWIN_M80-6661642)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M80-6661642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(HARWIN_M80-6661642)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M80-6661642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12(SAMTEC_ESQ-107-48-G-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESQ-107-48-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0603)
+Added Component: Designator=R120(RES-SMD-0603)
+Added Component: Designator=R121(RES-SMD-0603)
+Added Component: Designator=R122(RES-SMD-0603)
+Added Component: Designator=R123(RES-SMD-0603)
+Added Component: Designator=R124(RES-SMD-0603)
+Added Component: Designator=R125(RES-SMD-0603)
+Added Component: Designator=R126(RES-SMD-0603)
+Added Component: Designator=R127(RES-SMD-0603)
+Added Component: Designator=R128(RES-SMD-0603)
+Added Component: Designator=R129(RES-SMD-0603)
+Added Component: Designator=R130(RES-SMD-0603)
+Added Component: Designator=R131(RES-SMD-0603)
+Added Component: Designator=R132(RES-SMD-0603)
+Added Component: Designator=R133(RES-SMD-0603)
+Added Component: Designator=R134(RES-SMD-0603)
+Added Pin To Net: NetName=MCU_LASER_ADC2 Pin=C152-1
+Added Pin To Net: NetName=GND Pin=C152-2
+Added Pin To Net: NetName=MCU_LASER_ADC1 Pin=C153-1
+Added Pin To Net: NetName=GND Pin=C153-2
+Added Pin To Net: NetName=+5v Pin=J1-13
+Added Pin To Net: NetName=MCU_IRQ_1 Pin=J1-14
+Added Pin To Net: NetName=ISO_RS485_T+ Pin=J1-16
+Added Pin To Net: NetName=ISO_SCL Pin=J1-17
+Added Pin To Net: NetName=ISO_CANH Pin=J1-18
+Added Pin To Net: NetName=+12V_EXP Pin=J1-19
+Added Pin To Net: NetName=+12V_EXP Pin=J1-20
+Added Pin To Net: NetName=+12V_EXP Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-34
+Added Pin To Net: NetName=MCU_IRQ_0 Pin=J1-35
+Added Pin To Net: NetName=ISO_RS485_R- Pin=J1-36
+Added Pin To Net: NetName=ISO_RS485_R+ Pin=J1-37
+Added Pin To Net: NetName=ISO_SDA Pin=J1-38
+Added Pin To Net: NetName=ISO_CANL Pin=J1-39
+Added Pin To Net: NetName=GND Pin=J1-40
+Added Pin To Net: NetName=GND Pin=J1-41
+Added Pin To Net: NetName=GND Pin=J1-42
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-S1
+Added Pin To Net: NetName=GND Pin=J3-S2
+Added Pin To Net: NetName=+12V_EXP Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-S1
+Added Pin To Net: NetName=GND Pin=J4-S2
+Added Pin To Net: NetName=TEC_1_A Pin=J5-1
+Added Pin To Net: NetName=TEC_1_B Pin=J5-2
+Added Pin To Net: NetName=TEC_2_A Pin=J5-3
+Added Pin To Net: NetName=TEC_2_B Pin=J5-4
+Added Pin To Net: NetName=TEC_3_A Pin=J5-5
+Added Pin To Net: NetName=TEC_3_B Pin=J5-6
+Added Pin To Net: NetName=TEC_4_A Pin=J5-7
+Added Pin To Net: NetName=TEC_4_B Pin=J5-8
+Added Pin To Net: NetName=HEATER_1_B Pin=J5-9
+Added Pin To Net: NetName=HEATER_1_A Pin=J5-10
+Added Pin To Net: NetName=HEATER_2_B Pin=J5-11
+Added Pin To Net: NetName=HEATER_1_A Pin=J5-12
+Added Pin To Net: NetName=HEATER_3_B Pin=J5-13
+Added Pin To Net: NetName=HEATER_1_A Pin=J5-14
+Added Pin To Net: NetName=HEATER_4_B Pin=J5-15
+Added Pin To Net: NetName=HEATER_1_A Pin=J5-16
+Added Pin To Net: NetName=NTC1+ Pin=J7-1
+Added Pin To Net: NetName=NTC1- Pin=J7-2
+Added Pin To Net: NetName=NTC1+ Pin=J7-3
+Added Pin To Net: NetName=NTC2- Pin=J7-4
+Added Pin To Net: NetName=NTC1+ Pin=J7-5
+Added Pin To Net: NetName=NTC3- Pin=J7-6
+Added Pin To Net: NetName=NTC1+ Pin=J7-7
+Added Pin To Net: NetName=NTC4- Pin=J7-8
+Added Pin To Net: NetName=NTC1+ Pin=J7-9
+Added Pin To Net: NetName=NTC5- Pin=J7-10
+Added Pin To Net: NetName=NTC1+ Pin=J7-11
+Added Pin To Net: NetName=NTC6- Pin=J7-12
+Added Pin To Net: NetName=NTC1+ Pin=J7-13
+Added Pin To Net: NetName=NTC7- Pin=J7-14
+Added Pin To Net: NetName=NTC1+ Pin=J7-15
+Added Pin To Net: NetName=NTC8- Pin=J7-16
+Added Pin To Net: NetName=+12V_EXP Pin=J12-02
+Added Pin To Net: NetName=+12V_EXP Pin=J12-04
+Added Pin To Net: NetName=MCU_LASER_SW_INT_CS Pin=R8-1
+Added Pin To Net: NetName=MCU_LASER_SCK Pin=R120-2
+Added Pin To Net: NetName=MCU_LASER_SW_EXT_CS Pin=R121-1
+Added Pin To Net: NetName=MCU_LASER_MOSI Pin=R122-2
+Added Pin To Net: NetName=MCU_LASER_DAC_CS Pin=R123-1
+Added Pin To Net: NetName=MCU_LASER_MISO Pin=R124-2
+Added Pin To Net: NetName=MCU_LASER_DAC_LATCH Pin=R125-1
+Added Pin To Net: NetName=MCU_LASER_ADC1 Pin=R126-2
+Added Pin To Net: NetName=MCU_LASER_ADC2 Pin=R127-2
+Added Pin To Net: NetName=MCU_PHOTO_SCK Pin=R128-1
+Added Pin To Net: NetName=MCU_PHOTO_MISO Pin=R129-1
+Added Pin To Net: NetName=MCU_PHOTO_MOSI Pin=R130-1
+Added Pin To Net: NetName=MCU_PHOTO_PD_CS Pin=R131-1
+Added Pin To Net: NetName=MCU_PHOTO_ADC_CS Pin=R132-1
+Added Pin To Net: NetName=MCU_PHOTO_ADC_CONV Pin=R133-1
+Added Pin To Net: NetName=MCU_PHOTO_ADC_EOC Pin=R134-1
+Added Pin To Net: NetName=NetC123_1 Pin=U19-3
+Added Pin To Net: NetName=NetC123_1 Pin=U19-4
+Added Pin To Net: NetName=MCU_TEC_4_C\S\ Pin=U20-95
+Added Pin To Net: NetName=MCU_TEC_3_C\S\ Pin=U20-96
+Added Pin To Net: NetName=MCU_TEC_1_C\S\ Pin=U20-98
+Change Net Name : Old Net Name=NetC123_1 New Net Name=IR_LED_P
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(12, 52, 61) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(61, 133, 198)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(60, 120, 216)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(60, 120, 216)
+Added Pin To Net: NetName=+5V_CAM Pin=J1-1
+Added Pin To Net: NetName=+5V_CAM Pin=J3-15
+Added Net: Name=+5V_CAM
+Added Pin To Net: NetName=CAM_CK_N Pin=J1-7
+Added Pin To Net: NetName=CAM_CK_N Pin=J3-6
+Added Net: Name=CAM_CK_N
+Added Pin To Net: NetName=CAM_CK_P Pin=J1-28
+Added Pin To Net: NetName=CAM_CK_P Pin=J3-7
+Added Net: Name=CAM_CK_P
+Added Pin To Net: NetName=CAM_D0_N Pin=J1-11
+Added Pin To Net: NetName=CAM_D0_N Pin=J3-2
+Added Net: Name=CAM_D0_N
+Added Pin To Net: NetName=CAM_D0_P Pin=J1-32
+Added Pin To Net: NetName=CAM_D0_P Pin=J3-3
+Added Net: Name=CAM_D0_P
+Added Pin To Net: NetName=CAM_D1_N Pin=J1-9
+Added Pin To Net: NetName=CAM_D1_N Pin=J3-4
+Added Net: Name=CAM_D1_N
+Added Pin To Net: NetName=CAM_D1_P Pin=J1-30
+Added Pin To Net: NetName=CAM_D1_P Pin=J3-5
+Added Net: Name=CAM_D1_P
+Added Pin To Net: NetName=CAM_IO_0 Pin=J1-27
+Added Pin To Net: NetName=CAM_IO_0 Pin=J3-9
+Added Net: Name=CAM_IO_0
+Added Pin To Net: NetName=CAM_IO_1 Pin=J1-6
+Added Pin To Net: NetName=CAM_IO_1 Pin=J3-8
+Added Net: Name=CAM_IO_1
+Added Pin To Net: NetName=CAM_SCL Pin=J1-5
+Added Pin To Net: NetName=CAM_SCL Pin=J3-10
+Added Net: Name=CAM_SCL
+Added Pin To Net: NetName=CAM_SDA Pin=J1-26
+Added Pin To Net: NetName=CAM_SDA Pin=J3-11
+Added Net: Name=CAM_SDA
+Added Pin To Net: NetName=CAM_SEL_0 Pin=J1-24
+Added Pin To Net: NetName=CAM_SEL_0 Pin=J2-1
+Added Net: Name=CAM_SEL_0
+Added Pin To Net: NetName=CAM_SEL_1 Pin=J1-3
+Added Pin To Net: NetName=CAM_SEL_1 Pin=J2-2
+Added Net: Name=CAM_SEL_1
+Added Pin To Net: NetName=CM4_SCL Pin=J1-2
+Added Pin To Net: NetName=CM4_SCL Pin=J3-12
+Added Net: Name=CM4_SCL
+Added Pin To Net: NetName=CM4_SDA Pin=J1-23
+Added Pin To Net: NetName=CM4_SDA Pin=J3-13
+Added Net: Name=CM4_SDA
+Added Pin To Net: NetName=GND_12_EXP Pin=J4-2
+Added Pin To Net: NetName=GND_12_EXP Pin=J12-01
+Added Pin To Net: NetName=GND_12_EXP Pin=J12-03
+Added Net: Name=GND_12_EXP
+Added Pin To Net: NetName=GND_CAM Pin=J1-4
+Added Pin To Net: NetName=GND_CAM Pin=J1-8
+Added Pin To Net: NetName=GND_CAM Pin=J1-10
+Added Pin To Net: NetName=GND_CAM Pin=J1-12
+Added Pin To Net: NetName=GND_CAM Pin=J1-22
+Added Pin To Net: NetName=GND_CAM Pin=J1-25
+Added Pin To Net: NetName=GND_CAM Pin=J1-29
+Added Pin To Net: NetName=GND_CAM Pin=J1-31
+Added Pin To Net: NetName=GND_CAM Pin=J1-33
+Added Pin To Net: NetName=GND_CAM Pin=J3-1
+Added Pin To Net: NetName=GND_CAM Pin=J3-14
+Added Net: Name=GND_CAM
+Added Pin To Net: NetName=ISO_RS485_T- Pin=J1-15
+Added Pin To Net: NetName=ISO_RS485_T- Pin=R53-1
+Added Pin To Net: NetName=ISO_RS485_T- Pin=U12-12
+Added Net: Name=ISO_RS485_T-
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=R128-2
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=R129-2
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-5
+Added Pin To Net: NetName=NetJ4_5 Pin=R130-2
+Added Net: Name=NetJ4_5
+Added Pin To Net: NetName=NetJ4_6 Pin=J4-6
+Added Pin To Net: NetName=NetJ4_6 Pin=R131-2
+Added Net: Name=NetJ4_6
+Added Pin To Net: NetName=NetJ4_7 Pin=J4-7
+Added Pin To Net: NetName=NetJ4_7 Pin=R132-2
+Added Net: Name=NetJ4_7
+Added Pin To Net: NetName=NetJ4_8 Pin=J4-8
+Added Pin To Net: NetName=NetJ4_8 Pin=R133-2
+Added Net: Name=NetJ4_8
+Added Pin To Net: NetName=NetJ4_9 Pin=J4-9
+Added Pin To Net: NetName=NetJ4_9 Pin=R134-2
+Added Net: Name=NetJ4_9
+Added Pin To Net: NetName=NetJ12_05 Pin=J12-05
+Added Pin To Net: NetName=NetJ12_05 Pin=R8-2
+Added Net: Name=NetJ12_05
+Added Pin To Net: NetName=NetJ12_06 Pin=J12-06
+Added Pin To Net: NetName=NetJ12_06 Pin=R120-1
+Added Net: Name=NetJ12_06
+Added Pin To Net: NetName=NetJ12_07 Pin=J12-07
+Added Pin To Net: NetName=NetJ12_07 Pin=R121-2
+Added Net: Name=NetJ12_07
+Added Pin To Net: NetName=NetJ12_08 Pin=J12-08
+Added Pin To Net: NetName=NetJ12_08 Pin=R124-1
+Added Net: Name=NetJ12_08
+Added Pin To Net: NetName=NetJ12_09 Pin=J12-09
+Added Pin To Net: NetName=NetJ12_09 Pin=R123-2
+Added Net: Name=NetJ12_09
+Added Pin To Net: NetName=NetJ12_10 Pin=J12-10
+Added Pin To Net: NetName=NetJ12_10 Pin=R122-1
+Added Net: Name=NetJ12_10
+Added Pin To Net: NetName=NetJ12_11 Pin=J12-11
+Added Pin To Net: NetName=NetJ12_11 Pin=R125-2
+Added Net: Name=NetJ12_11
+Added Pin To Net: NetName=NetJ12_12 Pin=J12-12
+Added Pin To Net: NetName=NetJ12_12 Pin=R126-1
+Added Net: Name=NetJ12_12
+Added Pin To Net: NetName=NetJ12_14 Pin=J12-14
+Added Pin To Net: NetName=NetJ12_14 Pin=R127-1
+Added Net: Name=NetJ12_14
+Added Member To Class: ClassName=HEADER Member=Component C152 0.22uF/10V
+Added Member To Class: ClassName=HEADER Member=Component C153 0.22uF/10V
+Added Member To Class: ClassName=HEADER Member=Component J1 M80-5114242
+Added Member To Class: ClassName=HEADER Member=Component J2 0532610271
+Added Member To Class: ClassName=HEADER Member=Component J3 532611571
+Added Member To Class: ClassName=HEADER Member=Component J4 532610971
+Added Member To Class: ClassName=HEADER Member=Component J5 M80-6661642
+Added Member To Class: ClassName=HEADER Member=Component J7 M80-6661642
+Added Member To Class: ClassName=HEADER Member=Component J12 ESQ-107-48-G-D
+Added Member To Class: ClassName=HEADER Member=Component R8 22R
+Added Member To Class: ClassName=HEADER Member=Component R120 22R
+Added Member To Class: ClassName=HEADER Member=Component R121 22R
+Added Member To Class: ClassName=HEADER Member=Component R122 22R
+Added Member To Class: ClassName=HEADER Member=Component R123 22R
+Added Member To Class: ClassName=HEADER Member=Component R124 22R
+Added Member To Class: ClassName=HEADER Member=Component R125 22R
+Added Member To Class: ClassName=HEADER Member=Component R126 22R
+Added Member To Class: ClassName=HEADER Member=Component R127 22R
+Added Member To Class: ClassName=HEADER Member=Component R128 22R
+Added Member To Class: ClassName=HEADER Member=Component R129 22R
+Added Member To Class: ClassName=HEADER Member=Component R130 22R
+Added Member To Class: ClassName=HEADER Member=Component R131 22R
+Added Member To Class: ClassName=HEADER Member=Component R132 22R
+Added Member To Class: ClassName=HEADER Member=Component R133 22R
+Added Member To Class: ClassName=HEADER Member=Component R134 22R

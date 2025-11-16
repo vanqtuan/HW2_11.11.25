@@ -1,0 +1,107 @@
+Added Component: Designator=C117(CAP-CER-0603)
+Added Component: Designator=C118(CAP-CER-0603)
+Added Component: Designator=C119(CAP-CER-0603)
+Added Component: Designator=C120(CAP-CER-0603)
+Added Component: Designator=J8(BM04B-SRSS-TB)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crimp Part Number"; Value = "65300113722DEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part Number"; Value = "653004113322"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "WURTH"; VariantName = "[No Variations]"
+Added Component: Designator=J9(BM04B-SRSS-TB)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crimp Part Number"; Value = "65300113722DEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part Number"; Value = "653004113322"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "WURTH"; VariantName = "[No Variations]"
+Added Component: Designator=R90(RES-SMD-0603)
+Added Component: Designator=R91(RES-SMD-0603)
+Added Component: Designator=R92(RES-SMD-0603)
+Added Component: Designator=R93(RES-SMD-0603)
+Added Component: Designator=R94(RES-SMD-0603)
+Added Component: Designator=R95(RES-SMD-0603)
+Added Component: Designator=R96(RES-SMD-0603)
+Added Component: Designator=R97(RES-SMD-0603)
+Added Component: Designator=R98(RES-SMD-0603)
+Added Component: Designator=R99(RES-SMD-0603)
+Added Component: Designator=R100(RES-SMD-0603)
+Added Component: Designator=R101(RES-SMD-0603)
+Added Component: Designator=TVS3(DIODE SOT23)
+Added Component: Designator=TVS4(DIODE SOT23)
+Added Component: Designator=U17(PCA9508DP,118)
+Added Component: Designator=U18(PCA9508DP,118)
+Added Pin To Net: NetName=+3.3V Pin=C117-1
+Added Pin To Net: NetName=+3.3V Pin=C118-1
+Added Pin To Net: NetName=GND Pin=C119-2
+Added Pin To Net: NetName=GND Pin=C120-2
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J9-1
+Add Pin To Net: Unknown Pin: Pin J9-2
+Added Pin To Net: NetName=+3.3V Pin=R90-2
+Added Pin To Net: NetName=+3.3V Pin=R91-2
+Added Pin To Net: NetName=+3.3V Pin=R92-2
+Added Pin To Net: NetName=+3.3V Pin=R93-2
+Added Pin To Net: NetName=MCU_SENSOR_SCL Pin=R94-1
+Added Pin To Net: NetName=MCU_SENSOR_SDA Pin=R95-1
+Added Pin To Net: NetName=MCU_SENSOR1_EN Pin=R96-1
+Added Pin To Net: NetName=MCU_SENSOR2_EN Pin=R97-2
+Added Pin To Net: NetName=GND Pin=R98-1
+Added Pin To Net: NetName=+3.3V Pin=R99-2
+Added Pin To Net: NetName=+3.3V Pin=R100-2
+Added Pin To Net: NetName=GND Pin=R101-1
+Added Pin To Net: NetName=GND Pin=TVS3-3
+Added Pin To Net: NetName=GND Pin=TVS4-3
+Added Pin To Net: NetName=+3.3V Pin=U17-1
+Added Pin To Net: NetName=GND Pin=U17-4
+Added Pin To Net: NetName=+3.3V Pin=U17-8
+Added Pin To Net: NetName=+3.3V Pin=U18-1
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Pin To Net: NetName=+3.3V Pin=U18-8
+Added Pin To Net: NetName=NetC117_2 Pin=C117-2
+Added Pin To Net: NetName=NetC117_2 Pin=C119-1
+Added Net: Name=NetC117_2
+Added Pin To Net: NetName=NetC118_2 Pin=C118-2
+Added Pin To Net: NetName=NetC118_2 Pin=C120-1
+Added Net: Name=NetC118_2
+Added Pin To Net: NetName=NetJ8_3 Pin=R92-1
+Added Pin To Net: NetName=NetJ8_3 Pin=TVS3-1
+Added Pin To Net: NetName=NetJ8_3 Pin=U17-6
+Added Net: Name=NetJ8_3
+Added Pin To Net: NetName=NetJ8_4 Pin=R93-1
+Added Pin To Net: NetName=NetJ8_4 Pin=TVS3-2
+Added Pin To Net: NetName=NetJ8_4 Pin=U17-7
+Added Net: Name=NetJ8_4
+Added Pin To Net: NetName=NetJ9_3 Pin=R99-1
+Added Pin To Net: NetName=NetJ9_3 Pin=TVS4-1
+Added Pin To Net: NetName=NetJ9_3 Pin=U18-6
+Added Net: Name=NetJ9_3
+Added Pin To Net: NetName=NetJ9_4 Pin=R100-1
+Added Pin To Net: NetName=NetJ9_4 Pin=TVS4-2
+Added Pin To Net: NetName=NetJ9_4 Pin=U18-7
+Added Net: Name=NetJ9_4
+Added Pin To Net: NetName=NetR90_1 Pin=R90-1
+Added Pin To Net: NetName=NetR90_1 Pin=R95-2
+Added Pin To Net: NetName=NetR90_1 Pin=U17-3
+Added Pin To Net: NetName=NetR90_1 Pin=U18-3
+Added Net: Name=NetR90_1
+Added Pin To Net: NetName=NetR91_1 Pin=R91-1
+Added Pin To Net: NetName=NetR91_1 Pin=R94-2
+Added Pin To Net: NetName=NetR91_1 Pin=U17-2
+Added Pin To Net: NetName=NetR91_1 Pin=U18-2
+Added Net: Name=NetR91_1
+Added Pin To Net: NetName=NetR96_2 Pin=R96-2
+Added Pin To Net: NetName=NetR96_2 Pin=R98-2
+Added Pin To Net: NetName=NetR96_2 Pin=U17-5
+Added Net: Name=NetR96_2
+Added Pin To Net: NetName=NetR97_1 Pin=R97-1
+Added Pin To Net: NetName=NetR97_1 Pin=R101-2
+Added Pin To Net: NetName=NetR97_1 Pin=U18-5
+Added Net: Name=NetR97_1
+Added Class: Name=I2C_SENSOR

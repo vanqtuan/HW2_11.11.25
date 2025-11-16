@@ -1,0 +1,62 @@
+Added Component: Designator=C83(CAP-CER-0603)
+Added Component: Designator=C84(CAP-CER-0603)
+Added Component: Designator=C122(CAP-CER-0603)
+Added Component: Designator=C139(CAP-CER-0603)
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES-SMD-0603)
+Added Component: Designator=R59(RES-SMD-0603)
+Added Component: Designator=R60(RES-SMD-0603)
+Added Component: Designator=R61(RES-SMD-0603)
+Added Component: Designator=R62(RES-SMD-0603)
+Added Component: Designator=R63(RES-SMD-0603)
+Added Component: Designator=R64(RES-SMD-0603)
+Added Component: Designator=R65(RES-SMD-0603)
+Added Pin To Net: NetName=GND Pin=C83-2
+Added Pin To Net: NetName=GND Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C122-2
+Added Pin To Net: NetName=GND Pin=C139-2
+Add Pin To Net: Unknown Pin: Pin Q1-S
+Add Pin To Net: Unknown Pin: Pin Q2-S
+Add Pin To Net: Unknown Pin: Pin Q3-S
+Add Pin To Net: Unknown Pin: Pin Q4-S
+Added Pin To Net: NetName=MCU_HEATER_PWM1 Pin=R58-1
+Added Pin To Net: NetName=MCU_HEATER_PWM2 Pin=R59-1
+Added Pin To Net: NetName=MCU_HEATER_PWM3 Pin=R60-1
+Added Pin To Net: NetName=MCU_HEATER_PWM4 Pin=R61-1
+Added Pin To Net: NetName=GND Pin=R62-1
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=GND Pin=R64-1
+Added Pin To Net: NetName=GND Pin=R65-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C83-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C84-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C122-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C139-1
+Added Net: Name=HEATER_1_A
+Added Net: Name=HEATER_1_B
+Added Net: Name=HEATER_2_B
+Added Net: Name=HEATER_3_B
+Added Net: Name=HEATER_4_B
+Added Pin To Net: NetName=NetQ1_G Pin=R58-2
+Added Pin To Net: NetName=NetQ1_G Pin=R62-2
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetQ2_G Pin=R59-2
+Added Pin To Net: NetName=NetQ2_G Pin=R63-2
+Added Net: Name=NetQ2_G
+Added Pin To Net: NetName=NetQ3_G Pin=R60-2
+Added Pin To Net: NetName=NetQ3_G Pin=R64-2
+Added Net: Name=NetQ3_G
+Added Pin To Net: NetName=NetQ4_G Pin=R61-2
+Added Pin To Net: NetName=NetQ4_G Pin=R65-2
+Added Net: Name=NetQ4_G
+Added Class: Name=HEATER

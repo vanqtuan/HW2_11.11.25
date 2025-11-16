@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LAB_B3_209_V1.PrjPcb]
+   Generated File[LAB_B3_209_V1_Legend_Top.gbr]
+   Generated File[LAB_B3_209_V1_Paste_Top.gbr]
+   Generated File[LAB_B3_209_V1_Soldermask_Top.gbr]
+   Generated File[LAB_B3_209_V1_Copper_Signal_Top.gbr]
+   Generated File[LAB_B3_209_V1_Copper_Signal_1.gbr]
+   Generated File[LAB_B3_209_V1_Copper_Signal_2.gbr]
+   Generated File[LAB_B3_209_V1_Copper_Signal_3.gbr]
+   Generated File[LAB_B3_209_V1_Copper_Signal_4.gbr]
+   Generated File[LAB_B3_209_V1_Copper_Signal_Bot.gbr]
+   Generated File[LAB_B3_209_V1_Soldermask_Bot.gbr]
+   Generated File[LAB_B3_209_V1_Paste_Bot.gbr]
+   Generated File[LAB_B3_209_V1_Legend_Bot.gbr]
+   Generated File[LAB_B3_209_V1_Profile.gbr]
+   Generated File[LAB_B3_209_V1.EXTREP]
+   Generated File[LAB_B3_209_V1.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 12:19:11 AM On 11/17/2025

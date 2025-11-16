@@ -1,0 +1,44 @@
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT-23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=HEATER_1_B Pin=Q1-3
+Added Net: Name=HEATER_1_B
+Added Pin To Net: NetName=HEATER_2_B Pin=Q2-3
+Added Net: Name=HEATER_2_B
+Added Pin To Net: NetName=HEATER_3_B Pin=Q3-3
+Added Net: Name=HEATER_3_B
+Added Pin To Net: NetName=HEATER_4_B Pin=Q4-3
+Added Net: Name=HEATER_4_B
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R58-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R62-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R59-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R63-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R60-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R64-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R61-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R65-2
+Added Net: Name=NetQ4_1
+Added Member To Class: ClassName=HEATER Member=Component Q1 AO3400A
+Added Member To Class: ClassName=HEATER Member=Component Q2 AO3400A
+Added Member To Class: ClassName=HEATER Member=Component Q3 AO3400A
+Added Member To Class: ClassName=HEATER Member=Component Q4 AO3400A

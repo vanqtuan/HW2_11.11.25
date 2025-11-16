@@ -1,0 +1,556 @@
+Protel Design System Design Rule Check
+PCB File : D:\ALtium\LAB\Test2_111125\01_DESIGN\LAB_B3_209_V1\LAB_B3_209_V1.PcbDoc
+Date     : 11/16/2025
+Time     : 11:41:42 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=0.32mm) (Preferred=0.32mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+   Violation between Width Constraint: Track (129.951mm,112.806mm)(130.459mm,112.806mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (130.459mm,112.806mm)(130.683mm,113.03mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (130.683mm,102.87mm)(132.969mm,100.584mm) on L2-GND Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (130.683mm,110.49mm)(131.826mm,109.347mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (131.826mm,116.713mm)(135.001mm,116.713mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (132.08mm,106.807mm)(151.638mm,106.807mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (132.08mm,118.755mm)(132.37mm,119.045mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (132.37mm,119.045mm)(160.066mm,119.045mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (132.588mm,90.081mm)(134.074mm,90.081mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (133.604mm,79.629mm)(134.77mm,79.629mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (134.074mm,90.081mm)(134.112mm,90.043mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (134.104mm,82.657mm)(134.251mm,82.804mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (134.112mm,89.027mm)(134.112mm,90.043mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (134.546mm,76.528mm)(143.964mm,76.528mm) on L3-VCC Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135.128mm,131.494mm)(135.128mm,134.239mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135.128mm,131.494mm)(135.304mm,131.318mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135.128mm,91.567mm)(135.255mm,91.694mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135.89mm,84.455mm)(135.909mm,84.474mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135.89mm,87.541mm)(135.928mm,87.503mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135.89mm,91.732mm)(135.89mm,93.218mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (136.144mm,110.49mm)(140.335mm,114.681mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (136.525mm,136.461mm)(139.025mm,136.461mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (136.603mm,141.654mm)(136.603mm,142.383mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (137.255mm,78.359mm)(139.445mm,78.359mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (137.427mm,115.697mm)(166.37mm,115.697mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (137.66mm,89.915mm)(137.758mm,90.014mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (137.883mm,90.197mm)(137.894mm,90.197mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (138.171mm,81.92mm)(138.171mm,84.832mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (138.646mm,89.267mm)(138.646mm,91.542mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (138.683mm,93.079mm)(138.683mm,93.104mm) on L1-SIG Actual Width = 0.75mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (139.025mm,133.644mm)(139.204mm,133.465mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (139.045mm,129.687mm)(139.045mm,130.441mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (139.573mm,80.518mm)(139.967mm,80.518mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (140.415mm,78.278mm)(141.304mm,78.278mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (140.842mm,87.249mm)(140.842mm,88.138mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (140.919mm,89.739mm)(140.969mm,89.789mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (141.304mm,78.278mm)(141.604mm,77.978mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (142.747mm,83.82mm)(154.028mm,83.82mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (142.875mm,158.369mm)(143.2mm,158.694mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (142.952mm,90.805mm)(144.955mm,90.805mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (143.11mm,140.088mm)(143.11mm,141.447mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (143.237mm,143.39mm)(143.256mm,143.371mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (143.244mm,146.812mm)(143.256mm,146.8mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (143.256mm,143.221mm)(143.256mm,143.371mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (143.353mm,95.937mm)(143.353mm,96.139mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (143.726mm,159.296mm)(143.764mm,159.258mm) on L6-SIG Actual Width = 0.4mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (143.96mm,137.841mm)(144.284mm,138.164mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.057mm,80.645mm)(145.541mm,80.645mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.253mm,158.096mm)(144.28mm,158.069mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.272mm,146.976mm)(144.272mm,149.225mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.272mm,146.976mm)(144.448mm,146.8mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.399mm,135.763mm)(146.07mm,137.434mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.563mm,159.32mm)(144.587mm,159.344mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.587mm,159.344mm)(149.037mm,159.344mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.653mm,125.21mm)(146.419mm,125.21mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.653mm,158.069mm)(144.678mm,158.044mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.818mm,131.56mm)(146.316mm,131.56mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.873mm,88.392mm)(144.906mm,88.425mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.945mm,134.862mm)(144.945mm,134.87mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.945mm,138.164mm)(146.316mm,138.164mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (144.957mm,136.71mm)(146.361mm,136.71mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (145.078mm,143.377mm)(146.437mm,143.377mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (145.486mm,158.044mm)(149.606mm,153.924mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (146.177mm,134.447mm)(146.652mm,133.972mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (146.304mm,141.605mm)(146.685mm,141.224mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (146.316mm,131.56mm)(146.431mm,131.675mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (146.431mm,125.071mm)(148.566mm,125.071mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (146.431mm,133.477mm)(146.431mm,133.502mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (146.431mm,140.081mm)(147.271mm,140.081mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (146.939mm,140.97mm)(148.59mm,139.319mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.32mm,129.286mm)(149.156mm,131.122mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.582mm,140.99mm)(147.828mm,141.236mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.658mm,145.415mm)(149.051mm,145.415mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.701mm,81.075mm)(148.287mm,81.661mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.828mm,142.736mm)(147.828mm,143.726mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.828mm,143.667mm)(149.225mm,142.27mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.828mm,148.07mm)(147.828mm,148.081mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (147.828mm,149.06mm)(147.828mm,149.06mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (149.227mm,145.042mm)(149.227mm,145.239mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (149.606mm,153.924mm)(153.852mm,153.924mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (149.93mm,137.414mm)(152.234mm,137.414mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (150.057mm,144.907mm)(150.057mm,146.177mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (150.437mm,136.075mm)(159.385mm,127.127mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (150.957mm,158.069mm)(151.994mm,159.106mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (151.13mm,155.702mm)(151.13mm,157.619mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (151.13mm,159.144mm)(152.4mm,160.414mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (151.384mm,126.758mm)(153.289mm,126.758mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (151.892mm,152.146mm)(152.527mm,151.511mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (151.994mm,159.106mm)(152.857mm,159.106mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.294mm,96.266mm)(152.294mm,99.06mm) on L1-SIG Actual Width = 2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.421mm,92.837mm)(155.701mm,92.837mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.4mm,160.414mm)(152.4mm,161.655mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.548mm,84.052mm)(153.542mm,83.058mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.548mm,89.114mm)(152.548mm,89.154mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.548mm,89.114mm)(154.607mm,89.114mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.63mm,155.702mm)(153.504mm,155.702mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (152.654mm,99.441mm)(153.289mm,98.806mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (153.289mm,96.52mm)(153.289mm,98.806mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (153.416mm,159.743mm)(153.416mm,161.671mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (153.504mm,155.702mm)(153.797mm,155.995mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (153.543mm,125.984mm)(154.432mm,126.873mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (153.797mm,154.559mm)(158.011mm,158.773mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (154.416mm,159.458mm)(154.416mm,161.671mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (154.507mm,159.386mm)(154.507mm,159.83mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (154.507mm,159.386mm)(154.782mm,159.111mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (155.194mm,126.758mm)(156.73mm,126.758mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (155.575mm,125.659mm)(155.575mm,125.837mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (155.691mm,85.344mm)(156.067mm,85.344mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (155.956mm,153.543mm)(156.464mm,153.035mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (156.971mm,82.931mm)(160.322mm,82.931mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (157.099mm,128.27mm)(157.099mm,129.54mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (157.099mm,138.214mm)(157.099mm,139.065mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (157.48mm,139.446mm)(158.331mm,139.446mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (157.695mm,87.376mm)(157.695mm,87.526mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (157.835mm,84.48mm)(158.278mm,84.48mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (157.988mm,140.589mm)(160.274mm,142.875mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (158.011mm,158.773mm)(159.058mm,158.773mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (158.242mm,125.094mm)(158.242mm,132.842mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (158.242mm,132.842mm)(161.417mm,136.017mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (158.369mm,136.652mm)(158.369mm,138.049mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (158.496mm,145.288mm)(164.719mm,139.065mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (158.993mm,89.506mm)(160.258mm,89.506mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.036mm,157.492mm)(159.065mm,157.521mm) on L1-SIG Actual Width = 0.4mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.046mm,128.316mm)(159.12mm,128.39mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.12mm,128.39mm)(159.42mm,128.69mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.422mm,86.906mm)(159.638mm,87.122mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.488mm,88.623mm)(159.511mm,88.646mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.511mm,86.591mm)(159.511mm,87.376mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.512mm,151.13mm)(159.639mm,151.257mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (159.855mm,128.27mm)(159.855mm,128.27mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (160.135mm,144.399mm)(160.274mm,144.26mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (160.274mm,113.792mm)(171.704mm,113.792mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (160.401mm,123.709mm)(160.401mm,125.095mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (160.4mm,87.376mm)(160.433mm,87.409mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (160.632mm,150.053mm)(160.782mm,150.203mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (160.92mm,130.59mm)(160.92mm,130.69mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.036mm,134.366mm)(164.084mm,137.414mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.163mm,111.125mm)(162.814mm,109.474mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.163mm,140.081mm)(166.37mm,140.081mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.252mm,135.255mm)(161.252mm,135.255mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.252mm,136.652mm)(161.252mm,136.652mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.281mm,84.705mm)(161.281mm,84.821mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.29mm,159.385mm)(161.44mm,159.385mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.499mm,123.637mm)(161.699mm,123.637mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.671mm,130.683mm)(162.316mm,130.683mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.694mm,159.639mm)(163.98mm,159.639mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.734mm,136.844mm)(161.74mm,136.838mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (161.933mm,90.313mm)(162.216mm,90.313mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (162.876mm,112.361mm)(162.91mm,112.395mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (162.91mm,112.395mm)(164.211mm,112.395mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (162.91mm,113.665mm)(168.56mm,113.665mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.068mm,127.012mm)(163.416mm,127.36mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.068mm,133.708mm)(163.268mm,133.508mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.157mm,108.483mm)(163.436mm,108.204mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.157mm,109.982mm)(163.157mm,111.506mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.299mm,85.09mm)(165.275mm,85.09mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.449mm,144.78mm)(163.449mm,145.796mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.449mm,145.796mm)(163.449mm,145.812mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.449mm,145.812mm)(163.596mm,145.959mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (163.713mm,135.255mm)(163.83mm,135.138mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.071mm,92.075mm)(164.071mm,95.517mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.125mm,145.846mm)(164.125mm,145.972mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.211mm,112.395mm)(165.1mm,111.506mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.561mm,158.846mm)(166.116mm,160.401mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.719mm,87.249mm)(167.513mm,84.455mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.811mm,123.317mm)(164.935mm,123.441mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.87mm,124.436mm)(165.963mm,124.436mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.903mm,131.913mm)(165.986mm,131.913mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.961mm,101.981mm)(167.144mm,101.981mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.973mm,141.478mm)(167.044mm,139.407mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.973mm,146.685mm)(166.362mm,148.074mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (164.973mm,151.638mm)(165.1mm,151.765mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.132mm,118.916mm)(166.116mm,119.9mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.172mm,133.913mm)(165.986mm,133.913mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.275mm,90.133mm)(165.861mm,89.547mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.332mm,128.863mm)(165.936mm,128.863mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.608mm,122.047mm)(165.986mm,122.425mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.608mm,141.859mm)(167.64mm,139.827mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.637mm,159.471mm)(165.862mm,159.246mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.681mm,135.463mm)(165.681mm,136.144mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.862mm,159.246mm)(165.862mm,159.271mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.862mm,161.521mm)(165.862mm,161.544mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.986mm,133.413mm)(166.814mm,133.413mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.989mm,92.697mm)(165.989mm,92.722mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (165.989mm,94.247mm)(166.001mm,94.259mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.231mm,130.683mm)(166.581mm,131.033mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.233mm,120.799mm)(167.592mm,120.799mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.362mm,148.074mm)(166.936mm,148.074mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.37mm,140.081mm)(173.863mm,147.574mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.407mm,126.619mm)(167.359mm,126.619mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.466mm,103.094mm)(172.973mm,109.601mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.546mm,146.451mm)(167.698mm,146.451mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.546mm,148.967mm)(166.878mm,149.299mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.552mm,146.945mm)(166.872mm,146.945mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.75mm,148.524mm)(167.142mm,148.524mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.862mm,160.246mm)(166.862mm,161.671mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (166.878mm,146.939mm)(166.936mm,146.881mm) on L3-VCC Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.044mm,139.407mm)(174.664mm,139.407mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.167mm,126.913mm)(167.254mm,127mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.201mm,131.033mm)(167.359mm,131.191mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.21mm,132.913mm)(167.386mm,132.737mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.259mm,148.641mm)(167.259mm,150.241mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.371mm,127.913mm)(167.767mm,128.309mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.386mm,116.713mm)(167.386mm,117.475mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.407mm,126.413mm)(167.486mm,126.492mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.413mm,131.191mm)(167.444mm,131.16mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.491mm,127.413mm)(167.713mm,127.635mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.587mm,103.579mm)(172.974mm,108.966mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.736mm,136.013mm)(167.736mm,137.163mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (167.748mm,125.976mm)(167.767mm,125.995mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.169mm,85.09mm)(168.695mm,84.564mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.221mm,93.472mm)(170.815mm,93.472mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.236mm,122.231mm)(168.236mm,122.231mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.402mm,140.462mm)(170.18mm,140.462mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.466mm,78.391mm)(169.587mm,79.512mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.529mm,156.122mm)(168.529mm,156.718mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.568mm,148.59mm)(168.898mm,148.59mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.644mm,104.013mm)(168.644mm,106.045mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.695mm,84.564mm)(169.88mm,84.564mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.736mm,136.199mm)(168.736mm,137.915mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.736mm,136.199mm)(169.426mm,135.509mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.789mm,130.435mm)(168.789mm,130.46mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.797mm,88.687mm)(168.797mm,89.387mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.91mm,150.102mm)(168.91mm,151.257mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (168.937mm,122.809mm)(169.161mm,122.585mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.037mm,144.907mm)(169.926mm,145.796mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.188mm,91.44mm)(169.188mm,93.345mm) on L6-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.188mm,99.417mm)(173.228mm,95.377mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.211mm,136.409mm)(169.211mm,137.138mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.286mm,137.213mm)(169.286mm,137.917mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.329mm,117.602mm)(169.936mm,117.602mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.587mm,79.512mm)(169.587mm,100.245mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.672mm,103.632mm)(171.035mm,103.632mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.736mm,137.163mm)(169.759mm,137.14mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.799mm,144.694mm)(169.799mm,152.4mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.914mm,123.825mm)(170.942mm,123.825mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.926mm,145.796mm)(172.72mm,145.796mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (169.936mm,117.602mm)(170.053mm,117.719mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.053mm,117.719mm)(170.053mm,120.142mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.18mm,147.066mm)(170.561mm,147.066mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.18mm,150.241mm)(170.18mm,151.003mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.236mm,120.505mm)(170.236mm,121.663mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.236mm,120.505mm)(171.1mm,119.641mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.307mm,146.177mm)(170.307mm,152.019mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.434mm,103.109mm)(170.434mm,104.282mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.466mm,80.391mm)(170.466mm,84.01mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.472mm,105.59mm)(170.472mm,105.987mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.561mm,147.066mm)(171.958mm,147.066mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.676mm,89.535mm)(172.617mm,89.535mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.688mm,114.681mm)(171.45mm,115.443mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.717mm,149.066mm)(170.717mm,152.048mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.814mm,148.845mm)(170.815mm,148.844mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.815mm,145.288mm)(171.704mm,145.288mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.815mm,154.686mm)(186.055mm,154.686mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.914mm,138.684mm)(171.734mm,137.864mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (170.942mm,148.336mm)(171.696mm,149.09mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.039mm,105.171mm)(171.666mm,104.544mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.245mm,142.248mm)(171.245mm,142.498mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.431mm,142.798mm)(171.862mm,143.229mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.512mm,135.32mm)(172.212mm,134.62mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.666mm,104.394mm)(171.666mm,104.544mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.671mm,147.865mm)(171.696mm,147.89mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.696mm,147.89mm)(171.696mm,148.261mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.72mm,144.223mm)(171.745mm,144.198mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.735mm,137.164mm)(171.735mm,137.863mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.735mm,137.164mm)(171.736mm,137.163mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.736mm,121.663mm)(171.736mm,124.501mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.745mm,141.298mm)(171.745mm,141.669mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.745mm,143.869mm)(171.745mm,144.198mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.745mm,143.869mm)(172.066mm,143.548mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (171.774mm,123.259mm)(172.847mm,124.332mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.146mm,150.84mm)(172.146mm,151.323mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.146mm,150.84mm)(172.171mm,150.815mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.195mm,144.248mm)(172.195mm,144.797mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.195mm,144.248mm)(172.22mm,144.223mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.267mm,149.848mm)(172.417mm,149.848mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.417mm,148.832mm)(172.417mm,149.34mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.417mm,149.34mm)(172.417mm,149.848mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.421mm,134.874mm)(173.228mm,134.874mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.593mm,110.744mm)(173.99mm,110.744mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.662mm,151.707mm)(172.666mm,151.702mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.666mm,150.82mm)(172.666mm,151.702mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.695mm,147.091mm)(172.719mm,147.067mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.72mm,141.478mm)(173.228mm,140.97mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.72mm,145.796mm)(173.22mm,145.296mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.857mm,118.237mm)(172.974mm,118.12mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (172.974mm,107.06mm)(174.498mm,108.584mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.306mm,149.848mm)(173.863mm,149.291mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.482mm,104.244mm)(173.482mm,104.394mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.671mm,147.865mm)(174.207mm,147.865mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.682mm,102.924mm)(174.244mm,102.362mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.736mm,151.003mm)(182.88mm,151.003mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.863mm,139.827mm)(174.625mm,140.589mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.96mm,119.417mm)(173.99mm,119.447mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (173.99mm,116.078mm)(173.99mm,120.142mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.005mm,146.558mm)(174.059mm,146.558mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.059mm,138.372mm)(174.059mm,146.558mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.171mm,93.472mm)(176.72mm,93.472mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.195mm,141.998mm)(174.867mm,141.998mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.195mm,143.498mm)(176.149mm,143.498mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.197mm,142.496mm)(175.307mm,142.496mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.509mm,142.483mm)(174.509mm,148.983mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.511mm,152.273mm)(176.053mm,150.731mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.548mm,111.456mm)(175.856mm,111.456mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.625mm,116.586mm)(174.625mm,117.487mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.813mm,149.598mm)(174.821mm,149.606mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.825mm,101.6mm)(174.879mm,101.6mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.859mm,141.465mm)(174.859mm,147.681mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.859mm,142.949mm)(175.309mm,142.499mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (174.859mm,148.355mm)(175.187mm,148.684mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.134mm,135mm)(175.134mm,135.511mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.167mm,150.066mm)(175.191mm,150.041mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.387mm,107.569mm)(175.387mm,123.825mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.587mm,148.463mm)(175.603mm,148.463mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.736mm,119.539mm)(176.09mm,119.185mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.736mm,136.109mm)(175.857mm,135.988mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.768mm,141.364mm)(175.768mm,143.002mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (175.768mm,151.511mm)(175.768mm,151.511mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.022mm,106.68mm)(176.022mm,123.698mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.053mm,148.191mm)(176.797mm,147.447mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.06mm,119.865mm)(176.507mm,119.418mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.236mm,137.163mm)(176.286mm,137.213mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.466mm,78.391mm)(177.514mm,77.343mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.736mm,120.571mm)(176.736mm,121.663mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.736mm,120.571mm)(177.673mm,119.634mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.784mm,146.724mm)(176.784mm,152.992mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.784mm,152.992mm)(178.773mm,152.992mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (176.916mm,138.112mm)(176.955mm,138.15mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (177.165mm,118.618mm)(177.673mm,119.126mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (177.625mm,124.141mm)(178.092mm,124.141mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (177.706mm,143.424mm)(177.744mm,143.462mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (177.736mm,121.663mm)(177.736mm,123.634mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (177.8mm,106.045mm)(177.8mm,118.491mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (177.8mm,116.068mm)(177.8mm,119.517mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (177.8mm,116.068mm)(177.917mm,115.951mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.095mm,150.431mm)(178.416mm,150.11mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.121mm,139.573mm)(187.071mm,139.573mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.181mm,146.431mm)(178.308mm,146.431mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.206mm,144.003mm)(178.206mm,144.374mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.236mm,137.163mm)(178.286mm,137.213mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.474mm,119.125mm)(179.198mm,119.125mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.562mm,146.05mm)(178.681mm,145.931mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.777mm,143.432mm)(178.927mm,143.432mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.816mm,149.352mm)(178.816mm,149.606mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.927mm,142.416mm)(178.927mm,142.924mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.927mm,142.924mm)(178.927mm,143.432mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.938mm,119.131mm)(178.938mm,119.609mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (178.938mm,119.131mm)(178.943mm,119.126mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.06mm,123.063mm)(179.236mm,122.887mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.095mm,150.852mm)(179.095mm,151.269mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.181mm,140.478mm)(179.181mm,141.449mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.197mm,119.126mm)(179.921mm,119.126mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.236mm,121.663mm)(179.236mm,122.887mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.337mm,157.353mm)(203.708mm,157.353mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.57mm,150.827mm)(179.595mm,150.852mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.595mm,150.852mm)(179.595mm,151.274mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.681mm,140.867mm)(180.213mm,140.335mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.689mm,144.407mm)(179.689mm,144.891mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.705mm,136.398mm)(179.705mm,137.132mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.813mm,133.458mm)(179.832mm,133.477mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.959mm,105.768mm)(179.959mm,105.918mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.959mm,107.592mm)(180.009mm,107.642mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (179.961mm,151.64mm)(183.295mm,151.64mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.087mm,136.016mm)(186.054mm,136.016mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.253mm,121.72mm)(182.191mm,121.72mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.34mm,116.459mm)(180.34mm,116.459mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.456mm,138.673mm)(180.848mm,139.065mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.57mm,150.127mm)(181.188mm,150.127mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.656mm,143.174mm)(181.451mm,143.174mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.656mm,143.674mm)(181.266mm,143.674mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.689mm,140.716mm)(181.102mm,140.716mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.848mm,107.935mm)(180.848mm,109.997mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.848mm,136.144mm)(182.499mm,137.795mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (180.848mm,137.274mm)(180.848mm,141.351mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.102mm,104.013mm)(181.102mm,114.554mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.188mm,150.127mm)(181.429mm,150.368mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.486mm,123.913mm)(185.078mm,123.913mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.486mm,126.413mm)(183.436mm,126.413mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.486mm,128.413mm)(183.118mm,128.413mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.486mm,131.413mm)(181.511mm,131.438mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.495mm,77.362mm)(187.437mm,77.362mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.636mm,138.404mm)(181.674mm,138.366mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.737mm,108.966mm)(182.626mm,108.966mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (181.737mm,113.411mm)(184.061mm,115.735mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.128mm,115.951mm)(182.245mm,116.068mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.167mm,146.382mm)(182.167mm,147.506mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.299mm,133.913mm)(182.625mm,134.239mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.448mm,129.963mm)(182.998mm,129.963mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.459mm,131.438mm)(182.484mm,131.463mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.491mm,128.913mm)(182.491mm,130.167mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.498mm,110.49mm)(182.626mm,110.49mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.499mm,102.616mm)(186.817mm,102.616mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.522mm,131.501mm)(182.89mm,131.501mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.626mm,103.886mm)(183.998mm,103.886mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.626mm,112.41mm)(182.982mm,112.41mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.88mm,107.696mm)(183.998mm,107.696mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (182.893mm,155.067mm)(196.215mm,155.067mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (183.134mm,127.35mm)(183.134mm,127.863mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (183.134mm,137.287mm)(198.436mm,137.287mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (183.515mm,133.604mm)(184.023mm,133.096mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (183.935mm,107.773mm)(183.985mm,107.823mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (183.985mm,107.823mm)(183.985mm,109.347mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (184.658mm,153.67mm)(187.96mm,150.368mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (185.801mm,110.236mm)(186.182mm,110.617mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (185.951mm,108.077mm)(187.292mm,108.077mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (186.563mm,125.73mm)(187.252mm,125.73mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (186.931mm,129.908mm)(187.275mm,129.908mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (187.071mm,139.573mm)(190.881mm,135.763mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (187.329mm,129.963mm)(187.414mm,130.048mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (187.401mm,120.917mm)(187.414mm,120.904mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (187.437mm,77.362mm)(188.466mm,78.391mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (187.449mm,136.179mm)(187.462mm,136.192mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (187.615mm,139.283mm)(202.021mm,139.283mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (188.341mm,116.205mm)(188.341mm,136.154mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (189.33mm,130.202mm)(189.357mm,130.175mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (189.865mm,143.002mm)(191.897mm,145.034mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (189.992mm,108.925mm)(189.992mm,135.382mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (191.516mm,82.423mm)(195.844mm,86.751mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (192.2mm,150.682mm)(192.2mm,151.257mm) on L6-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (192.659mm,141.859mm)(192.659mm,141.908mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (192.786mm,123.952mm)(205.282mm,111.456mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (193.167mm,125.476mm)(205.937mm,112.706mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (193.421mm,81.28mm)(209.015mm,96.874mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (193.929mm,104.902mm)(194.957mm,105.93mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (194.321mm,77.608mm)(194.321mm,78.246mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (194.797mm,99.751mm)(194.797mm,100.944mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (194.945mm,107.061mm)(194.957mm,107.049mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (194.945mm,107.061mm)(194.957mm,107.073mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (195.453mm,133.096mm)(210.947mm,117.602mm) on L1-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (195.453mm,146.849mm)(195.703mm,147.099mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (196.088mm,151.892mm)(196.088mm,153.555mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (196.445mm,108.851mm)(196.457mm,108.839mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (196.977mm,145.391mm)(196.977mm,147.701mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (196.977mm,147.701mm)(197.127mm,147.701mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (196.977mm,149.517mm)(199.009mm,149.517mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (196.983mm,145.397mm)(199.003mm,145.397mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (197.053mm,149.593mm)(197.053mm,150.774mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (197.104mm,141.466mm)(199.136mm,141.466mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (197.358mm,141.732mm)(197.358mm,147.447mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (197.612mm,90.678mm)(209.296mm,90.678mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (197.935mm,97.79mm)(197.935mm,99.06mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (197.993mm,96.52mm)(205.359mm,96.52mm) on L4-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (198.12mm,155.321mm)(198.755mm,155.956mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (199.015mm,143.909mm)(199.072mm,143.852mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (199.015mm,143.909mm)(201.162mm,143.909mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (199.072mm,141.53mm)(199.072mm,143.852mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (199.072mm,141.53mm)(199.136mm,141.466mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (199.263mm,149.352mm)(200.304mm,149.352mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (199.685mm,97.79mm)(200.11mm,98.215mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (200.085mm,145.239mm)(200.446mm,145.239mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (200.11mm,98.215mm)(200.11mm,98.255mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (200.66mm,140.88mm)(200.66mm,142.289mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (200.66mm,140.88mm)(200.704mm,140.836mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (200.66mm,155.956mm)(200.875mm,155.956mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (200.704mm,140.252mm)(200.704mm,140.836mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (201.168mm,146.963mm)(202.565mm,146.963mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (201.21mm,96.055mm)(201.247mm,96.055mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (201.422mm,91.821mm)(203.315mm,91.821mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (201.428mm,93.466mm)(203.448mm,93.466mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (202.549mm,137.271mm)(206.248mm,140.97mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (202.661mm,150.769mm)(202.661mm,150.944mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (202.661mm,150.944mm)(203.512mm,151.794mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (203.2mm,143.903mm)(203.206mm,143.909mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (204.398mm,149.606mm)(204.862mm,149.142mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (204.428mm,92.16mm)(204.428mm,94.632mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (205.232mm,141.466mm)(205.238mm,141.472mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (205.362mm,146.37mm)(205.362mm,147.667mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (205.486mm,96.596mm)(205.537mm,96.647mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (205.486mm,99.746mm)(205.511mm,99.746mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (205.564mm,158.718mm)(205.74mm,158.542mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (205.956mm,100.191mm)(210.566mm,100.191mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (207.264mm,145.415mm)(207.27mm,145.409mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (207.264mm,149.031mm)(207.268mm,149.027mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (207.27mm,145.409mm)(209.29mm,145.409mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (207.518mm,146.939mm)(207.518mm,147.089mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (207.518mm,148.463mm)(208.915mm,148.463mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (208.08mm,147.751mm)(208.08mm,148.37mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (208.449mm,94.374mm)(214.643mm,94.374mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (208.721mm,99.374mm)(214.643mm,99.374mm) on L6-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (208.788mm,152.908mm)(208.788mm,155.956mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (208.915mm,152.896mm)(210.312mm,152.896mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (209.232mm,143.852mm)(209.29mm,143.909mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (209.444mm,153.719mm)(209.677mm,153.719mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (209.677mm,153.719mm)(209.677mm,158.542mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (210.116mm,140.393mm)(210.116mm,143.985mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (210.185mm,144.054mm)(210.185mm,147.701mm) on L4-SIG Actual Width = 0.2mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (210.306mm,148.457mm)(210.312mm,148.451mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (210.3mm,94.615mm)(210.325mm,94.615mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (210.566mm,100.191mm)(211.594mm,100.191mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (210.693mm,158.75mm)(211.963mm,158.75mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (210.947mm,117.602mm)(214.928mm,117.602mm) on L1-SIG Actual Width = 0.3mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (211.264mm,141.53mm)(211.264mm,143.839mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (211.455mm,147.479mm)(211.455mm,149.733mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (211.709mm,152.896mm)(211.709mm,158.115mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (212.305mm,143.903mm)(212.598mm,144.196mm) on L1-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (214.643mm,95.624mm)(216.115mm,95.624mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (216.281mm,93.678mm)(216.281mm,95.458mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (217.424mm,90.424mm)(217.424mm,91.705mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (217.424mm,91.705mm)(217.543mm,91.824mm) on L6-SIG Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (220.599mm,83.185mm)(220.599mm,106.426mm) on L1-SIG Actual Width = 1mm, Target Width = 0.254mm
+Rule Violations :500
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25.4mm) (InDifferentialPairClass('My pair'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:01

@@ -1,0 +1,40 @@
+Added Component: Designator=C155(CAP-CER-0603)
+Added Component: Designator=C156(CAP-CER-0603)
+Added Component: Designator=R139(RES-SMD-0603)
+Added Component: Designator=R140(RES-SMD-0603)
+Added Component: Designator=R141(RES-SMD-0603)
+Added Component: Designator=R142(RES-SMD-0603)
+Added Component: Designator=R143(RES-SMD-0603)
+Added Component: Designator=R144(RES-SMD-0603)
+Added Component: Designator=U22(MB85RS2MTAPNF-G-BDERE1)
+Added Pin To Net: NetName=+3.3V Pin=C155-1
+Added Pin To Net: NetName=GND Pin=C156-2
+Added Pin To Net: NetName=+3.3V Pin=R139-2
+Added Pin To Net: NetName=+3.3V Pin=R140-2
+Added Pin To Net: NetName=MCU_FRAM_C\S\ Pin=R141-2
+Added Pin To Net: NetName=MCU_TEC_SCK Pin=R142-2
+Added Pin To Net: NetName=MCU_TEC_MOSI Pin=R143-2
+Added Pin To Net: NetName=MCU_TEC_MISO Pin=R144-2
+Added Pin To Net: NetName=GND Pin=U22-4
+Added Pin To Net: NetName=+3.3V Pin=U22-8
+Added Pin To Net: NetName=NetC155_2 Pin=C155-2
+Added Pin To Net: NetName=NetC155_2 Pin=C156-1
+Added Net: Name=NetC155_2
+Added Pin To Net: NetName=NetR139_1 Pin=R139-1
+Added Pin To Net: NetName=NetR139_1 Pin=R141-1
+Added Pin To Net: NetName=NetR139_1 Pin=U22-1
+Added Net: Name=NetR139_1
+Added Pin To Net: NetName=NetR140_1 Pin=R140-1
+Added Pin To Net: NetName=NetR140_1 Pin=U22-3
+Added Pin To Net: NetName=NetR140_1 Pin=U22-7
+Added Net: Name=NetR140_1
+Added Pin To Net: NetName=NetR142_1 Pin=R142-1
+Added Pin To Net: NetName=NetR142_1 Pin=U22-6
+Added Net: Name=NetR142_1
+Added Pin To Net: NetName=NetR143_1 Pin=R143-1
+Added Pin To Net: NetName=NetR143_1 Pin=U22-5
+Added Net: Name=NetR143_1
+Added Pin To Net: NetName=NetR144_1 Pin=R144-1
+Added Pin To Net: NetName=NetR144_1 Pin=U22-2
+Added Net: Name=NetR144_1
+Added Class: Name=FRAM

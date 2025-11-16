@@ -1,0 +1,153 @@
+Added Component: Designator=10(ADUM1250WSRZ)
+Added Component: Designator=C71(CAP-CER-0603)
+Added Component: Designator=C72(CAP-CER-0603)
+Added Component: Designator=C73(CAP-CER-0603)
+Added Component: Designator=C74(CAP-CER-0603)
+Added Component: Designator=C75(CAP-CER-0603)
+Added Component: Designator=C76(CAP-CER-0603)
+Added Component: Designator=C77(CAP-CER-0603)
+Added Component: Designator=C78(CAP-CER-0603)
+Added Component: Designator=C79(CAP-CER-0603)
+Added Component: Designator=C80(CAP-CER-0603)
+Added Component: Designator=C81(CAP-CER-0603)
+Added Component: Designator=C82(CAP-CER-0603)
+Added Component: Designator=R40(RES-SMD-0603)
+Added Component: Designator=R41(RES-SMD-0603)
+Added Component: Designator=R42(RES-SMD-0603)
+Added Component: Designator=R43(RES-SMD-0603)
+Added Component: Designator=R44(RES-SMD-0603)
+Added Component: Designator=R45(RES-SMD-0603)
+Added Component: Designator=R46(RES-SMD-0603)
+Added Component: Designator=R47(RES-SMD-0603)
+Added Component: Designator=R48(RES-SMD-0603)
+Added Component: Designator=R49(RES-SMD-0603)
+Added Component: Designator=R50(RES-SMD-0603)
+Added Component: Designator=R51(RES-SMD-0603)
+Added Component: Designator=R52(RES-SMD-0603)
+Added Component: Designator=R53(RES-SMD-0603)
+Added Component: Designator=R54(RES-SMD-0603)
+Added Component: Designator=R55(RES-SMD-0603)
+Added Component: Designator=R56(RES-SMD-0603)
+Added Component: Designator=R57(RES-SMD-0603)
+Added Component: Designator=R136(RES-SMD-0603)
+Added Component: Designator=U11(ISO1042BQDWVRQ1)
+Added Component: Designator=U12(ISO1432DW)
+Added Pin To Net: NetName=+5v Pin=10-1
+Added Pin To Net: NetName=GND Pin=10-4
+Added Pin To Net: NetName=GND Pin=10-5
+Added Pin To Net: NetName=NTC1+ Pin=10-8
+Added Pin To Net: NetName=+5v Pin=C71-2
+Added Pin To Net: NetName=NTC1+ Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=+5v Pin=C75-2
+Added Pin To Net: NetName=NTC1+ Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=+5v Pin=C79-2
+Added Pin To Net: NetName=NTC1+ Pin=C80-2
+Added Pin To Net: NetName=GND Pin=C81-1
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=NTC1+ Pin=R40-2
+Added Pin To Net: NetName=NTC1+ Pin=R41-2
+Added Pin To Net: NetName=+5v Pin=R42-2
+Added Pin To Net: NetName=+5v Pin=R43-2
+Added Pin To Net: NetName=MCU_EXP_SDA Pin=R44-1
+Added Pin To Net: NetName=MCU_EXP_SCL Pin=R45-1
+Added Pin To Net: NetName=NTC1+ Pin=R47-1
+Added Pin To Net: NetName=NTC1+ Pin=R48-1
+Added Pin To Net: NetName=NTC1+ Pin=R49-1
+Added Pin To Net: NetName=MCU_EXP_RS485_R\E\ Pin=R51-2
+Added Pin To Net: NetName=MCU_EXP_RS485_DE Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R55-2
+Added Pin To Net: NetName=MCU_EXP_CAN_TX Pin=R56-1
+Added Pin To Net: NetName=MCU_EXP_CAN_RX Pin=R57-1
+Added Pin To Net: NetName=NTC1+ Pin=R136-1
+Added Pin To Net: NetName=NTC1+ Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-4
+Added Pin To Net: NetName=GND Pin=U11-5
+Added Pin To Net: NetName=+5v Pin=U11-8
+Added Pin To Net: NetName=NTC1+ Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-8
+Added Pin To Net: NetName=GND Pin=U12-9
+Added Pin To Net: NetName=GND Pin=U12-15
+Added Pin To Net: NetName=+5v Pin=U12-16
+Added Pin To Net: NetName=ISO_CANH Pin=U11-7
+Added Net: Name=ISO_CANH
+Added Pin To Net: NetName=ISO_CANL Pin=U11-6
+Added Net: Name=ISO_CANL
+Added Pin To Net: NetName=ISO_RS485_R+ Pin=R46-1
+Added Pin To Net: NetName=ISO_RS485_R+ Pin=U12-14
+Added Net: Name=ISO_RS485_R+
+Added Pin To Net: NetName=ISO_RS485_R- Pin=R46-2
+Added Pin To Net: NetName=ISO_RS485_R- Pin=U12-13
+Added Net: Name=ISO_RS485_R-
+Added Pin To Net: NetName=ISO_RS485_T+ Pin=R53-2
+Added Pin To Net: NetName=ISO_RS485_T+ Pin=U12-11
+Added Net: Name=ISO_RS485_T+
+Added Pin To Net: NetName=ISO_RS495_T- Pin=R53-1
+Added Pin To Net: NetName=ISO_RS495_T- Pin=U12-12
+Added Net: Name=ISO_RS495_T-
+Added Pin To Net: NetName=ISO_SCL Pin=10-3
+Added Pin To Net: NetName=ISO_SCL Pin=R42-1
+Added Net: Name=ISO_SCL
+Added Pin To Net: NetName=ISO_SDA Pin=10-2
+Added Pin To Net: NetName=ISO_SDA Pin=R43-1
+Added Net: Name=ISO_SDA
+Added Pin To Net: NetName=MCU_EXP_RS485_RX Pin=R50-2
+Added Pin To Net: NetName=MCU_EXP_RS485_RX Pin=U20-69
+Added Net: Name=MCU_EXP_RS485_RX
+Added Pin To Net: NetName=MCU_EXP_RS485_TX Pin=R54-2
+Added Pin To Net: NetName=MCU_EXP_RS485_TX Pin=U20-68
+Added Net: Name=MCU_EXP_RS485_TX
+Added Pin To Net: NetName=Net10_6 Pin=10-6
+Added Pin To Net: NetName=Net10_6 Pin=R41-1
+Added Pin To Net: NetName=Net10_6 Pin=R45-2
+Added Net: Name=Net10_6
+Added Pin To Net: NetName=Net10_7 Pin=10-7
+Added Pin To Net: NetName=Net10_7 Pin=R40-1
+Added Pin To Net: NetName=Net10_7 Pin=R44-2
+Added Net: Name=Net10_7
+Added Pin To Net: NetName=NetC71_1 Pin=C71-1
+Added Pin To Net: NetName=NetC71_1 Pin=C73-2
+Added Net: Name=NetC71_1
+Added Pin To Net: NetName=NetC72_1 Pin=C72-1
+Added Pin To Net: NetName=NetC72_1 Pin=C74-2
+Added Net: Name=NetC72_1
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=NetC75_1 Pin=C77-2
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetC76_1 Pin=C76-1
+Added Pin To Net: NetName=NetC76_1 Pin=C78-2
+Added Net: Name=NetC76_1
+Added Pin To Net: NetName=NetC79_1 Pin=C79-1
+Added Pin To Net: NetName=NetC79_1 Pin=C81-2
+Added Net: Name=NetC79_1
+Added Pin To Net: NetName=NetC80_1 Pin=C80-1
+Added Pin To Net: NetName=NetC80_1 Pin=C82-2
+Added Net: Name=NetC80_1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=R52-1
+Added Pin To Net: NetName=NetR47_2 Pin=U12-5
+Added Net: Name=NetR47_2
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=NetR48_2 Pin=R54-1
+Added Pin To Net: NetName=NetR48_2 Pin=U12-6
+Added Net: Name=NetR48_2
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=R50-1
+Added Pin To Net: NetName=NetR49_2 Pin=U12-3
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=R55-1
+Added Pin To Net: NetName=NetR51_1 Pin=U12-4
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=R136-2
+Added Pin To Net: NetName=NetR56_2 Pin=U11-2
+Added Net: Name=NetR56_2
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=U11-3
+Added Net: Name=NetR57_2
+Added Class: Name=EXP_OBC_COMM

@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=MCU NRST Pin=R118-1
+Removed Pin From Net: NetName=MCU NRST Pin=R119-2
+Added Component: Designator=C121(CAP-CER-0603)
+Added Component: Designator=C123(CAP-CER-0603)
+Added Component: Designator=C124(CAP-CER-0603)
+Added Component: Designator=C125(CAP-CER-0603)
+Added Component: Designator=C154(CAP-CER-0603)
+Added Component: Designator=D4(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIODE SOD-123)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005519"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode S4 SOD123 ( 1N5819 SOD123)"; VariantName = "[No Variations]"
+Added Component: Designator=J10(CON4_653104131822_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crimp Part Number"; Value = "65300113722DEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part Number"; Value = "653004113322"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "WURTH"; VariantName = "[No Variations]"
+Added Component: Designator=L6(INDUCTOR-SRR4828A-820M)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LQM18PZ2R2MFHD/Murata/view-part/1498702/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQM18PZ2R2MFHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LQM18PZ2R2MFHD/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LQM18PZ2R2MFHD/Murata/view-part/1498702/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R102(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R103(RES-SMD-0603)
+Added Component: Designator=R104(RES-SMD-0603)
+Added Component: Designator=U19(AL8843SP-13)
+Added Pin To Net: NetName=GND Pin=C121-2
+Added Pin To Net: NetName=GND Pin=C125-2
+Added Pin To Net: NetName=GND Pin=C154-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-4
+Added Pin To Net: NetName=MCU_IR_LED_PWM Pin=R103-2
+Added Pin To Net: NetName=GND Pin=R104-1
+Added Pin To Net: NetName=MCU_IR_LED_PWM Pin=R104-2
+Added Pin To Net: NetName=GND Pin=U19-1
+Added Pin To Net: NetName=GND Pin=U19-2
+Added Pin To Net: NetName=GND Pin=U19-9
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(67, 67, 67)
+Added Pin To Net: NetName=+5v Pin=C121-1
+Added Pin To Net: NetName=+5v Pin=C154-1
+Added Pin To Net: NetName=+5v Pin=D4-K
+Added Pin To Net: NetName=+5v Pin=R102-1
+Added Pin To Net: NetName=+5v Pin=U19-6
+Added Net: Name=+5v
+Added Pin To Net: NetName=IR_LED_P Pin=U19-3
+Added Pin To Net: NetName=IR_LED_P Pin=U19-4
+Added Net: Name=IR_LED_P
+Added Pin To Net: NetName=NetC123_1 Pin=C123-1
+Added Pin To Net: NetName=NetC123_1 Pin=C124-1
+Added Pin To Net: NetName=NetC123_1 Pin=D5-2
+Added Pin To Net: NetName=NetC123_1 Pin=J10-1
+Added Pin To Net: NetName=NetC123_1 Pin=R102-2
+Added Net: Name=NetC123_1
+Added Pin To Net: NetName=NetC123_2 Pin=C123-2
+Added Pin To Net: NetName=NetC123_2 Pin=C124-2
+Added Pin To Net: NetName=NetC123_2 Pin=D5-1
+Added Pin To Net: NetName=NetC123_2 Pin=J10-2
+Added Pin To Net: NetName=NetC123_2 Pin=L6-2
+Added Net: Name=NetC123_2
+Added Pin To Net: NetName=NetC125_1 Pin=C125-1
+Added Pin To Net: NetName=NetC125_1 Pin=R103-1
+Added Pin To Net: NetName=NetC125_1 Pin=U19-5
+Added Net: Name=NetC125_1
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=L6-1
+Added Pin To Net: NetName=NetD4_A Pin=U19-7
+Added Pin To Net: NetName=NetD4_A Pin=U19-8
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetR118_1 Pin=R118-1
+Added Pin To Net: NetName=NetR118_1 Pin=R119-2
+Added Pin To Net: NetName=NetR118_1 Pin=U20-94
+Added Net: Name=NetR118_1
+Added Class: Name=IR_LED

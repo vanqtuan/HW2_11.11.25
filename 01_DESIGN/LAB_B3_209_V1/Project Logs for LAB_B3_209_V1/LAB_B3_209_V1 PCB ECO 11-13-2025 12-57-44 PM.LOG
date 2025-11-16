@@ -1,0 +1,22 @@
+Added Component: Designator=J10(CON4_653104131822_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Crimp Part Number"; Value = "65300113722DEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Part Number"; Value = "653004113322"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "653104131822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "WURTH"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J9-1
+Add Pin To Net: Unknown Pin: Pin J9-2
+Add Pin To Net: Unknown Pin: Pin J9-3
+Add Pin To Net: Unknown Pin: Pin J9-4
+Added Pin To Net: NetName=NetC123_1 Pin=J10-1
+Added Pin To Net: NetName=NetC123_2 Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-4
+Added Member To Class: ClassName=IR_LED Member=Component J10 532610271

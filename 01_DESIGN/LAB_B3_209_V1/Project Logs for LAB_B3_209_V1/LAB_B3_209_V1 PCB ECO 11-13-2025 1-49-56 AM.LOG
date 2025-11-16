@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=MCU_TEC_3_SWEN Pin=U20-1
+Removed Pin From Net: NetName=MCU_TEC_4_SWEN Pin=U20-2
+Removed Pin From Net: NetName=MCU_TEC_2_SWEN Pin=U20-3
+Removed Pin From Net: NetName=MCU_TEC_1_SWEN Pin=U20-4
+Removed Pin From Net: NetName=MCU_TEC_1_EN Pin=U20-5
+Removed Pin From Net: NetName=MCU_TEC_2_EN Pin=U20-7
+Removed Pin From Net: NetName=MCU_TEC_3_EN Pin=U20-8
+Removed Pin From Net: NetName=MCU_TEC_4_EN Pin=U20-9
+Removed Pin From Net: NetName=NetC151_1 Pin=U20-12
+Removed Pin From Net: NetName=NetC150_1 Pin=U20-13
+Removed Pin From Net: NetName=MCU NRST Pin=U20-14
+Removed Pin From Net: NetName=MCU_ADC_TEMP1 Pin=U20-15
+Removed Pin From Net: NetName=MCU_ADC_TEMP2 Pin=U20-16
+Removed Pin From Net: NetName=MCU_ADC_TEMP3 Pin=U20-17
+Removed Pin From Net: NetName=MCU_ADC_TEMP4 Pin=U20-18
+Removed Pin From Net: NetName=WD WAKE Pin=U20-23
+Removed Pin From Net: NetName=WD DONE Pin=U20-24
+Removed Pin From Net: NetName=MCU_LASER_ADC1 Pin=U20-25
+Removed Pin From Net: NetName=MCU_LASER_ADC2 Pin=U20-26
+Removed Pin From Net: NetName=MCU_TEC_ADC Pin=U20-29
+Removed Pin From Net: NetName=MCU_LASER_SCK Pin=U20-30
+Removed Pin From Net: NetName=MCU_LASER_MISO Pin=U20-31
+Removed Pin From Net: NetName=MCU_LASER_MOSI Pin=U20-32
+Removed Pin From Net: NetName=MCU_ADC_TEMP5 Pin=U20-33
+Removed Pin From Net: NetName=MCU_ADC_TEMP6 Pin=U20-34
+Removed Pin From Net: NetName=MCU_ADC_TEMP7 Pin=U20-35
+Removed Pin From Net: NetName=MCU_ADC_TEMP8 Pin=U20-36
+Removed Pin From Net: NetName=NetR137_1 Pin=U20-37
+Removed Pin From Net: NetName=MCU_EF_12_AUX Pin=U20-38
+Removed Pin From Net: NetName=MCU_IR_LED_PWM Pin=U20-40
+Removed Pin From Net: NetName=LED G Pin=U20-41
+Removed Pin From Net: NetName=LED B Pin=U20-42
+Removed Pin From Net: NetName=MCU_LASER_DAC_CS Pin=U20-43
+Removed Pin From Net: NetName=MCU_LASER_SW_EXT_CS Pin=U20-44
+Removed Pin From Net: NetName=MCU_LASER_SW_INT_CS Pin=U20-45
+Removed Pin From Net: NetName=MCU_LASER_DAC_LATCH Pin=U20-46
+Removed Pin From Net: NetName=MCU_EXP_SCL Pin=U20-47
+Removed Pin From Net: NetName=MCU_EXP_SDA Pin=U20-48
+Removed Pin From Net: NetName=NetC135_1 Pin=U20-49
+Removed Pin From Net: NetName=MCU_EXP_RS485_DE Pin=U20-51
+Removed Pin From Net: NetName=MCU_PHOTO_SCK Pin=U20-52
+Removed Pin From Net: NetName=MCU_PHOTO_MISO Pin=U20-53
+Removed Pin From Net: NetName=MCU_PHOTO_MOSI Pin=U20-54
+Removed Pin From Net: NetName=MCU_EXP_RS485_R\E\ Pin=U20-55
+Removed Pin From Net: NetName=MCU_PHOTO_PD_CS Pin=U20-56
+Removed Pin From Net: NetName=MCU_PHOTO_ADC_CS Pin=U20-57
+Removed Pin From Net: NetName=MCU_PHOTO_ADC_CONV Pin=U20-58
+Removed Pin From Net: NetName=MCU_HEATER_PWM1 Pin=U20-59
+Removed Pin From Net: NetName=MCU_HEATER_PWM2 Pin=U20-60
+Removed Pin From Net: NetName=MCU_HEATER_PWM3 Pin=U20-61
+Removed Pin From Net: NetName=MCU_HEATER_PWM4 Pin=U20-62
+Removed Pin From Net: NetName=EXP UART TX Pin=U20-63
+Removed Pin From Net: NetName=EXP UART RX Pin=U20-64
+Removed Pin From Net: NetName=MCU_PHOTO_ADC_EOC Pin=U20-65
+Removed Pin From Net: NetName=MCU_IRQ_1 Pin=U20-66
+Removed Pin From Net: NetName=MCU_IRQ_0 Pin=U20-67
+Removed Pin From Net: NetName=MCU_RS485_TX Pin=U20-68
+Removed Pin From Net: NetName=MCU_RS485_RX Pin=U20-69
+Removed Pin From Net: NetName=MCU_EXP_CAN_RX Pin=U20-70
+Removed Pin From Net: NetName=MCU_EXP_CAN_TX Pin=U20-71
+Removed Pin From Net: NetName=MCU SWDIO Pin=U20-72
+Removed Pin From Net: NetName=NetC134_1 Pin=U20-73
+Removed Pin From Net: NetName=MCU SWCLK Pin=U20-76
+Removed Pin From Net: NetName=MCU_TEC_SCK Pin=U20-78
+Removed Pin From Net: NetName=MCU_TEC_MISO Pin=U20-79
+Removed Pin From Net: NetName=MCU_TEC_MOSI Pin=U20-80
+Removed Pin From Net: NetName=MCU_FRAM_C\S\ Pin=U20-83
+Removed Pin From Net: NetName=MCU_EF_5_AUX Pin=U20-84
+Removed Pin From Net: NetName=MCU_EF_5_EN Pin=U20-85
+Removed Pin From Net: NetName=MCU_TEC_ADC_CS Pin=U20-86
+Removed Pin From Net: NetName=MCU_SENSOR2_EN Pin=U20-90
+Removed Pin From Net: NetName=MCU_SENSOR1_EN Pin=U20-91
+Removed Pin From Net: NetName=MCU_SENSOR_SCL Pin=U20-92
+Removed Pin From Net: NetName=MCU_SENSOR_SDA Pin=U20-93
+Removed Pin From Net: NetName=MCU_TEC_4_CS Pin=U20-95
+Removed Pin From Net: NetName=MCU_TEC_3_CS Pin=U20-96
+Removed Pin From Net: NetName=MCU_TEC_2_C\S\ Pin=U20-97
+Removed Pin From Net: NetName=MCU_TEC_1_CS Pin=U20-98
+Removed Member From Class: ClassName=MCU Member=U20B
+Change Component Designator: OldDesignator=U20B NewDesignator=U20
+Add Pin To Net: Unknown Pin: Pin L7-1
+Add Pin To Net: Unknown Pin: Pin L7-2
+Added Pin To Net: NetName=MCU_TEC_3_SWEN Pin=U20-1
+Added Pin To Net: NetName=MCU_TEC_4_SWEN Pin=U20-2
+Added Pin To Net: NetName=MCU_TEC_2_SWEN Pin=U20-3
+Added Pin To Net: NetName=MCU_TEC_1_SWEN Pin=U20-4
+Added Pin To Net: NetName=MCU_TEC_1_EN Pin=U20-5
+Added Pin To Net: NetName=MCU_TEC_2_EN Pin=U20-7
+Added Pin To Net: NetName=MCU_TEC_3_EN Pin=U20-8
+Added Pin To Net: NetName=MCU_TEC_4_EN Pin=U20-9
+Added Pin To Net: NetName=NetC151_1 Pin=U20-12
+Added Pin To Net: NetName=NetC150_1 Pin=U20-13
+Added Pin To Net: NetName=MCU NRST Pin=U20-14
+Added Pin To Net: NetName=MCU_ADC_TEMP1 Pin=U20-15
+Added Pin To Net: NetName=MCU_ADC_TEMP2 Pin=U20-16
+Added Pin To Net: NetName=MCU_ADC_TEMP3 Pin=U20-17
+Added Pin To Net: NetName=MCU_ADC_TEMP4 Pin=U20-18
+Added Pin To Net: NetName=WD WAKE Pin=U20-23
+Added Pin To Net: NetName=WD DONE Pin=U20-24
+Added Pin To Net: NetName=MCU_LASER_ADC1 Pin=U20-25
+Added Pin To Net: NetName=MCU_LASER_ADC2 Pin=U20-26
+Added Pin To Net: NetName=MCU_TEC_ADC Pin=U20-29
+Added Pin To Net: NetName=MCU_LASER_SCK Pin=U20-30
+Added Pin To Net: NetName=MCU_LASER_MISO Pin=U20-31
+Added Pin To Net: NetName=MCU_LASER_MOSI Pin=U20-32
+Added Pin To Net: NetName=MCU_ADC_TEMP5 Pin=U20-33
+Added Pin To Net: NetName=MCU_ADC_TEMP6 Pin=U20-34
+Added Pin To Net: NetName=MCU_ADC_TEMP7 Pin=U20-35
+Added Pin To Net: NetName=MCU_ADC_TEMP8 Pin=U20-36
+Added Pin To Net: NetName=NetR137_1 Pin=U20-37
+Added Pin To Net: NetName=MCU_EF_12_AUX Pin=U20-38
+Added Pin To Net: NetName=MCU_IR_LED_PWM Pin=U20-40
+Added Pin To Net: NetName=LED G Pin=U20-41
+Added Pin To Net: NetName=LED B Pin=U20-42
+Added Pin To Net: NetName=MCU_LASER_DAC_CS Pin=U20-43
+Added Pin To Net: NetName=MCU_LASER_SW_EXT_CS Pin=U20-44
+Added Pin To Net: NetName=MCU_LASER_SW_INT_CS Pin=U20-45
+Added Pin To Net: NetName=MCU_LASER_DAC_LATCH Pin=U20-46
+Added Pin To Net: NetName=MCU_EXP_SCL Pin=U20-47
+Added Pin To Net: NetName=MCU_EXP_SDA Pin=U20-48
+Added Pin To Net: NetName=NetC135_1 Pin=U20-49
+Added Pin To Net: NetName=MCU_EXP_RS485_DE Pin=U20-51
+Added Pin To Net: NetName=MCU_PHOTO_SCK Pin=U20-52
+Added Pin To Net: NetName=MCU_PHOTO_MISO Pin=U20-53
+Added Pin To Net: NetName=MCU_PHOTO_MOSI Pin=U20-54
+Added Pin To Net: NetName=MCU_EXP_RS485_R\E\ Pin=U20-55
+Added Pin To Net: NetName=MCU_PHOTO_PD_CS Pin=U20-56
+Added Pin To Net: NetName=MCU_PHOTO_ADC_CS Pin=U20-57
+Added Pin To Net: NetName=MCU_PHOTO_ADC_CONV Pin=U20-58
+Added Pin To Net: NetName=MCU_HEATER_PWM1 Pin=U20-59
+Added Pin To Net: NetName=MCU_HEATER_PWM2 Pin=U20-60
+Added Pin To Net: NetName=MCU_HEATER_PWM3 Pin=U20-61
+Added Pin To Net: NetName=MCU_HEATER_PWM4 Pin=U20-62
+Added Pin To Net: NetName=EXP UART TX Pin=U20-63
+Added Pin To Net: NetName=EXP UART RX Pin=U20-64
+Added Pin To Net: NetName=MCU_PHOTO_ADC_EOC Pin=U20-65
+Added Pin To Net: NetName=MCU_IRQ_1 Pin=U20-66
+Added Pin To Net: NetName=MCU_IRQ_0 Pin=U20-67
+Added Pin To Net: NetName=MCU_RS485_TX Pin=U20-68
+Added Pin To Net: NetName=MCU_RS485_RX Pin=U20-69
+Added Pin To Net: NetName=MCU_EXP_CAN_RX Pin=U20-70
+Added Pin To Net: NetName=MCU_EXP_CAN_TX Pin=U20-71
+Added Pin To Net: NetName=MCU SWDIO Pin=U20-72
+Added Pin To Net: NetName=NetC134_1 Pin=U20-73
+Added Pin To Net: NetName=MCU SWCLK Pin=U20-76
+Added Pin To Net: NetName=MCU_TEC_SCK Pin=U20-78
+Added Pin To Net: NetName=MCU_TEC_MISO Pin=U20-79
+Added Pin To Net: NetName=MCU_TEC_MOSI Pin=U20-80
+Added Pin To Net: NetName=MCU_FRAM_C\S\ Pin=U20-83
+Added Pin To Net: NetName=MCU_EF_5_AUX Pin=U20-84
+Added Pin To Net: NetName=MCU_EF_5_EN Pin=U20-85
+Added Pin To Net: NetName=MCU_TEC_ADC_CS Pin=U20-86
+Added Pin To Net: NetName=MCU_SENSOR2_EN Pin=U20-90
+Added Pin To Net: NetName=MCU_SENSOR1_EN Pin=U20-91
+Added Pin To Net: NetName=MCU_SENSOR_SCL Pin=U20-92
+Added Pin To Net: NetName=MCU_SENSOR_SDA Pin=U20-93
+Added Pin To Net: NetName=MCU_TEC_4_CS Pin=U20-95
+Added Pin To Net: NetName=MCU_TEC_3_CS Pin=U20-96
+Added Pin To Net: NetName=MCU_TEC_2_C\S\ Pin=U20-97
+Added Pin To Net: NetName=MCU_TEC_1_CS Pin=U20-98
+Add Class Member: Failed to add class member : Component L7 10uH/250mA
